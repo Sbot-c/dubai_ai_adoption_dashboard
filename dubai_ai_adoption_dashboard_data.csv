@@ -1,0 +1,1001 @@
+Record_ID,Employee_ID,Division,AI_Training_Track,Baseline_Skill_Score,Post_Training_Skill_Score,AI_Tool_Class,Use_Case_Name,Academic_Partner,Collaboration_Program,Implementation_Stage,Efficiency_Gain_Pct,Estimated_Value_AED,Adoption_Rate_Pct
+REC-0001,EMP-25795,Water & Civil,AI for Leaders,22.4,50.1,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Sponsored Capstone,Development,8.6,42500.0,22.9
+REC-0002,EMP-10860,Water & Civil,AI Literacy,57.8,93.8,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,UAT & Testing,23.1,93400.0,70.4
+REC-0003,EMP-86820,Business Development & Execution,AI for Leaders,20.8,71.0,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Reverse Hackathon,Development,5.0,104300.0,21.5
+REC-0004,EMP-64886,Distribution Power,Deep Technical & LLMOps,19.4,90.9,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Reverse Hackathon,Fully Deployed,37.2,544800.0,76.8
+REC-0005,EMP-16265,I&TF,AI Literacy,17.9,83.1,Generative AI (LLMs),AI Developer Copilot,None,None,Optimizing,32.9,119500.0,93.7
+REC-0006,EMP-92386,Finance,AI Literacy,10.0,85.1,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Reverse Hackathon,UAT & Testing,22.5,28500.0,73.9
+REC-0007,EMP-47194,Business Development & Execution,AI Literacy,48.4,74.0,Generative AI (LLMs),AI Bid Evaluator,None,None,UAT & Testing,20.0,107500.0,17.2
+REC-0008,EMP-97498,Finance,AI Literacy,22.4,98.3,Agentic AI Workflows,Invoice Matcher Agent,None,None,Development,8.3,35500.0,48.8
+REC-0009,EMP-54131,Business Development & Execution,AI Literacy,20.1,98.6,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Reverse Hackathon,Fully Deployed,34.4,102700.0,91.4
+REC-0010,EMP-70263,I&TF,AI Literacy,10.0,74.8,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,37.1,32600.0,96.0
+REC-0011,EMP-26023,Finance,Deep Technical & LLMOps,29.3,90.2,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,29.1,128200.0,84.9
+REC-0012,EMP-51090,I&TF,AI for Leaders,11.7,58.2,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Ideation,6.3,13800.0,0.0
+REC-0013,EMP-77221,Billing,AI Literacy,11.4,81.7,Predictive Machine Learning,Revenue Risk Profiler,Heriot-Watt University,Reverse Hackathon,Fully Deployed,33.8,262200.0,93.2
+REC-0014,EMP-74820,Transmission Power,Deep Technical & LLMOps,16.1,77.9,Computer Vision,Overhead Line Monitoring,Heriot-Watt University,Sponsored Capstone,Development,13.4,26400.0,5.4
+REC-0015,EMP-10769,I&TF,AI Literacy,35.6,65.1,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,26.8,61200.0,90.0
+REC-0016,EMP-69735,Billing,Deep Technical & LLMOps,28.7,80.7,Predictive Machine Learning,Revenue Risk Profiler,None,None,Fully Deployed,39.7,78600.0,85.8
+REC-0017,EMP-72955,Legal Affairs,AI Literacy,10.0,79.7,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Joint R&D Lab,Fully Deployed,33.8,250000.0,69.9
+REC-0018,EMP-74925,Finance,Deep Technical & LLMOps,48.8,80.5,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Joint R&D Lab,Development,14.5,119700.0,20.0
+REC-0019,EMP-77969,I&TF,Deep Technical & LLMOps,24.8,80.6,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Joint R&D Lab,Fully Deployed,29.7,290400.0,93.6
+REC-0020,EMP-15311,Legal Affairs,Deep Technical & LLMOps,26.1,95.9,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Joint R&D Lab,Ideation,7.0,16600.0,0.0
+REC-0021,EMP-93104,Distribution Power,Deep Technical & LLMOps,10.0,91.8,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,29.5,115400.0,94.8
+REC-0022,EMP-63707,Power & Water Planning,AI Literacy,41.8,80.1,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Joint R&D Lab,Ideation,3.2,10900.0,0.0
+REC-0023,EMP-95305,Legal Affairs,Deep Technical & LLMOps,20.5,78.0,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Reverse Hackathon,Development,17.3,49000.0,9.3
+REC-0024,EMP-38693,Distribution Power,AI Literacy,12.2,84.9,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,0.3,8100.0,0.0
+REC-0025,EMP-81932,Finance,AI Literacy,10.0,90.6,Agentic AI Workflows,Invoice Matcher Agent,RIT Dubai,Sponsored Capstone,Fully Deployed,49.9,241300.0,77.6
+REC-0026,EMP-35658,Water & Civil,AI Literacy,18.6,87.7,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,UAT & Testing,22.8,21000.0,27.4
+REC-0027,EMP-94478,Business Development & Execution,AI for Leaders,44.9,91.7,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,30.1,36600.0,79.5
+REC-0028,EMP-28431,Distribution Power,AI Literacy,11.6,67.7,Agentic AI Workflows,LV Power Restoration,RIT Dubai,Reverse Hackathon,Fully Deployed,34.0,31500.0,73.3
+REC-0029,EMP-12747,I&TF,AI for Leaders,10.0,92.1,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Fully Deployed,36.2,62400.0,80.2
+REC-0030,EMP-69150,Legal Affairs,AI for Leaders,13.9,73.8,Generative AI (LLMs),Contract Compliance Parser,None,None,Ideation,4.3,29000.0,0.0
+REC-0031,EMP-75725,Business Development & Execution,Deep Technical & LLMOps,11.9,70.3,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Sponsored Capstone,Fully Deployed,44.2,45800.0,68.3
+REC-0032,EMP-94654,Water & Civil,Deep Technical & LLMOps,23.6,97.0,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Sponsored Capstone,UAT & Testing,25.9,31400.0,72.4
+REC-0033,EMP-45773,Billing,AI for Leaders,10.0,93.1,Generative AI (LLMs),Generative Bill Explanation,None,None,Ideation,10.5,5100.0,0.0
+REC-0034,EMP-77435,Billing,AI for Leaders,10.8,71.2,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,8.3,95800.0,4.6
+REC-0035,EMP-66886,Transmission Power,AI Literacy,10.0,81.0,Computer Vision,Thermal Substations Inspection,None,None,Development,12.6,124500.0,15.2
+REC-0036,EMP-76803,Power & Water Planning,AI Literacy,31.3,62.7,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Sponsored Capstone,Ideation,2.2,22200.0,0.0
+REC-0037,EMP-41551,Distribution Power,AI Literacy,12.7,93.8,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,8.7,93500.0,0.3
+REC-0038,EMP-21394,Transmission Power,AI for Leaders,11.3,54.4,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Sponsored Capstone,Ideation,4.3,37000.0,0.0
+REC-0039,EMP-79092,Business Development & Execution,AI Literacy,42.2,87.7,Generative AI (LLMs),AI Procurement Sandbox,None,None,UAT & Testing,18.8,18800.0,74.3
+REC-0040,EMP-13890,Finance,Deep Technical & LLMOps,51.1,91.8,Predictive Machine Learning,Supplier Risk Analysis,None,None,Development,13.1,14800.0,0.8
+REC-0041,EMP-51606,Business Development & Execution,AI for Leaders,35.6,62.8,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,11.7,22500.0,18.7
+REC-0042,EMP-90038,Power & Water Planning,AI for Leaders,46.1,84.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Optimizing,36.8,160900.0,93.5
+REC-0043,EMP-97313,Business Development & Execution,AI for Leaders,38.1,99.3,Generative AI (LLMs),AI Bid Evaluator,None,None,UAT & Testing,21.3,85600.0,62.7
+REC-0044,EMP-20627,Water & Civil,AI Literacy,16.5,55.8,Computer Vision,Structural Crack Inspection,None,None,Development,16.9,43300.0,25.6
+REC-0045,EMP-18792,Finance,AI for Leaders,10.0,64.7,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Joint R&D Lab,UAT & Testing,23.3,153900.0,51.8
+REC-0046,EMP-83969,Business Development & Execution,Deep Technical & LLMOps,12.9,79.1,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,8.5,8500.0,42.9
+REC-0047,EMP-53001,Water & Civil,AI Literacy,11.5,72.4,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Ideation,4.7,8800.0,0.0
+REC-0048,EMP-86552,Water & Civil,AI for Leaders,31.8,97.4,Computer Vision,Reservoir Volumetric AI,MBZUAI,Sponsored Capstone,Ideation,4.8,12200.0,0.0
+REC-0049,EMP-33897,Transmission Power,Deep Technical & LLMOps,20.4,90.5,Computer Vision,Thermal Substations Inspection,None,None,Optimizing,34.6,114100.0,76.4
+REC-0050,EMP-78148,Transmission Power,Deep Technical & LLMOps,10.0,82.4,Computer Vision,Insulator Wear Classifier,RIT Dubai,Sponsored Capstone,Fully Deployed,38.5,137800.0,76.1
+REC-0051,EMP-33483,Distribution Power,Deep Technical & LLMOps,12.5,45.8,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,33.7,268400.0,90.4
+REC-0052,EMP-58555,Transmission Power,Deep Technical & LLMOps,10.0,78.7,Computer Vision,Thermal Substations Inspection,None,None,Optimizing,35.5,155600.0,91.3
+REC-0053,EMP-27159,I&TF,Deep Technical & LLMOps,10.0,88.0,Generative AI (LLMs),Agentic IT Helpdesk,MBZUAI,Joint R&D Lab,Optimizing,25.2,818900.0,98.4
+REC-0054,EMP-90077,Billing,AI Literacy,53.4,88.9,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,29.2,253500.0,86.4
+REC-0055,EMP-45920,Finance,AI for Leaders,10.0,64.3,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Reverse Hackathon,Fully Deployed,20.5,146600.0,71.6
+REC-0056,EMP-77121,Water & Civil,AI Literacy,50.7,88.1,Computer Vision,Structural Crack Inspection,None,None,Development,13.3,59100.0,10.9
+REC-0057,EMP-79479,Legal Affairs,AI for Leaders,19.8,80.6,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Ideation,6.7,17900.0,0.0
+REC-0058,EMP-99475,Distribution Power,AI for Leaders,31.6,69.9,Agentic AI Workflows,LV Power Restoration,RIT Dubai,Reverse Hackathon,UAT & Testing,14.7,304100.0,68.9
+REC-0059,EMP-29457,Finance,AI Literacy,10.0,90.6,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Reverse Hackathon,UAT & Testing,20.6,202100.0,25.2
+REC-0060,EMP-76557,I&TF,Deep Technical & LLMOps,21.8,69.2,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Reverse Hackathon,Optimizing,31.4,223400.0,99.3
+REC-0061,EMP-87189,Legal Affairs,Deep Technical & LLMOps,50.8,89.0,Generative AI (LLMs),Contract Compliance Parser,None,None,UAT & Testing,26.8,44100.0,31.9
+REC-0062,EMP-88953,Water & Civil,AI for Leaders,45.8,77.6,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,26.6,165100.0,91.2
+REC-0063,EMP-62995,Distribution Power,AI for Leaders,21.8,95.7,Agentic AI Workflows,LV Power Restoration,MBZUAI,Sponsored Capstone,UAT & Testing,23.7,125500.0,68.6
+REC-0064,EMP-50757,I&TF,Deep Technical & LLMOps,18.6,66.0,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Joint R&D Lab,Development,15.4,73600.0,18.9
+REC-0065,EMP-19692,Distribution Power,AI Literacy,22.2,62.6,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Joint R&D Lab,UAT & Testing,19.2,43900.0,37.2
+REC-0066,EMP-55758,Power & Water Planning,Deep Technical & LLMOps,28.9,75.9,Predictive Machine Learning,Digital Twin Simulation,None,None,UAT & Testing,21.2,142500.0,33.4
+REC-0067,EMP-82409,Business Development & Execution,AI Literacy,54.1,81.3,Generative AI (LLMs),AI Bid Evaluator,None,None,UAT & Testing,24.3,149800.0,27.5
+REC-0068,EMP-81211,Legal Affairs,Deep Technical & LLMOps,12.5,94.2,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,UAT & Testing,15.6,30000.0,45.1
+REC-0069,EMP-75697,Distribution Power,AI Literacy,11.5,65.2,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,10.7,15100.0,11.3
+REC-0070,EMP-47065,Transmission Power,Deep Technical & LLMOps,16.7,98.2,Computer Vision,Thermal Substations Inspection,MBZUAI,Joint R&D Lab,UAT & Testing,20.7,193200.0,18.7
+REC-0071,EMP-42606,Legal Affairs,Deep Technical & LLMOps,10.0,74.2,Generative AI (LLMs),Contract Compliance Parser,None,None,Fully Deployed,44.4,59800.0,55.4
+REC-0072,EMP-21534,Transmission Power,AI Literacy,33.6,91.2,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,18.4,270200.0,42.0
+REC-0073,EMP-50397,Water & Civil,AI Literacy,10.0,67.5,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,UAT & Testing,18.9,63200.0,39.3
+REC-0074,EMP-11016,Distribution Power,Deep Technical & LLMOps,55.6,96.8,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,8.1,13400.0,0.0
+REC-0075,EMP-99789,Distribution Power,AI for Leaders,22.5,87.4,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,14.0,51700.0,15.4
+REC-0076,EMP-65591,I&TF,Deep Technical & LLMOps,33.9,75.2,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Development,18.5,22300.0,13.6
+REC-0077,EMP-99812,Transmission Power,Deep Technical & LLMOps,10.0,97.3,Computer Vision,Overhead Line Monitoring,None,None,UAT & Testing,24.4,240200.0,48.6
+REC-0078,EMP-33247,Legal Affairs,AI Literacy,35.9,78.4,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Sponsored Capstone,UAT & Testing,19.4,63200.0,27.4
+REC-0079,EMP-34300,Legal Affairs,AI Literacy,28.8,78.1,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Reverse Hackathon,Fully Deployed,30.3,124200.0,78.9
+REC-0080,EMP-84065,I&TF,AI Literacy,31.0,88.7,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Sponsored Capstone,Development,9.5,8100.0,3.5
+REC-0081,EMP-92798,Power & Water Planning,Deep Technical & LLMOps,19.2,72.9,Predictive Machine Learning,Grid Expansion Planner,None,None,Ideation,2.4,5000.0,0.0
+REC-0082,EMP-19268,Legal Affairs,AI Literacy,40.1,64.5,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Sponsored Capstone,UAT & Testing,21.4,194600.0,46.8
+REC-0083,EMP-96807,Business Development & Execution,AI for Leaders,10.0,98.3,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Sponsored Capstone,UAT & Testing,22.5,78600.0,46.7
+REC-0084,EMP-22185,Water & Civil,AI for Leaders,28.9,70.4,Computer Vision,Reservoir Volumetric AI,None,None,UAT & Testing,23.0,49400.0,48.1
+REC-0085,EMP-73704,Legal Affairs,AI for Leaders,10.0,54.8,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Sponsored Capstone,Fully Deployed,31.3,75100.0,51.2
+REC-0086,EMP-96779,Business Development & Execution,Deep Technical & LLMOps,10.0,88.1,Generative AI (LLMs),AI Bid Evaluator,None,None,Fully Deployed,43.6,183700.0,91.2
+REC-0087,EMP-49099,I&TF,Deep Technical & LLMOps,50.5,89.1,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Ideation,2.3,27100.0,0.0
+REC-0088,EMP-18571,Distribution Power,AI for Leaders,12.5,78.3,Agentic AI Workflows,SCADA Fault Routing,None,None,Optimizing,23.2,94500.0,95.8
+REC-0089,EMP-48044,Finance,Deep Technical & LLMOps,10.0,83.8,Agentic AI Workflows,Invoice Matcher Agent,None,None,Ideation,3.4,23700.0,0.0
+REC-0090,EMP-61214,Power & Water Planning,Deep Technical & LLMOps,21.3,94.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,32.0,104200.0,89.0
+REC-0091,EMP-71228,Finance,AI for Leaders,47.7,92.1,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,25.4,176800.0,96.9
+REC-0092,EMP-58984,Business Development & Execution,Deep Technical & LLMOps,14.8,50.2,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Sponsored Capstone,Fully Deployed,40.1,28600.0,57.4
+REC-0093,EMP-50774,Power & Water Planning,AI Literacy,66.4,78.4,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,9.8,10900.0,21.4
+REC-0094,EMP-12568,Finance,AI Literacy,12.1,92.0,Agentic AI Workflows,Invoice Matcher Agent,RIT Dubai,Reverse Hackathon,Development,9.2,76100.0,19.7
+REC-0095,EMP-72592,Finance,Deep Technical & LLMOps,40.8,100.0,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Sponsored Capstone,UAT & Testing,24.2,98400.0,48.1
+REC-0096,EMP-77563,I&TF,AI for Leaders,23.7,90.1,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Development,12.6,54500.0,18.9
+REC-0097,EMP-12695,Legal Affairs,Deep Technical & LLMOps,16.9,75.4,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Ideation,6.6,5000.0,0.0
+REC-0098,EMP-58190,Finance,Deep Technical & LLMOps,30.1,85.4,Agentic AI Workflows,Invoice Matcher Agent,Heriot-Watt University,Joint R&D Lab,UAT & Testing,19.8,56300.0,57.1
+REC-0099,EMP-15258,Finance,AI Literacy,10.0,76.8,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Sponsored Capstone,UAT & Testing,21.1,20700.0,77.8
+REC-0100,EMP-97538,Transmission Power,Deep Technical & LLMOps,17.7,84.9,Computer Vision,Thermal Substations Inspection,MBZUAI,Sponsored Capstone,Fully Deployed,23.4,60100.0,78.8
+REC-0101,EMP-49504,I&TF,AI for Leaders,16.6,86.6,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Joint R&D Lab,Ideation,4.7,9700.0,0.0
+REC-0102,EMP-43159,Water & Civil,Deep Technical & LLMOps,27.8,82.7,Computer Vision,Reservoir Volumetric AI,MBZUAI,Reverse Hackathon,Fully Deployed,25.7,154000.0,74.3
+REC-0103,EMP-23986,I&TF,Deep Technical & LLMOps,25.0,79.6,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Ideation,8.9,5600.0,0.0
+REC-0104,EMP-71858,Water & Civil,Deep Technical & LLMOps,31.2,93.3,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,39.8,184200.0,71.9
+REC-0105,EMP-22666,Water & Civil,AI Literacy,40.0,80.8,Autonomous IoT & Sensors,Autonomous Leak Detection,Heriot-Watt University,Sponsored Capstone,UAT & Testing,17.4,76600.0,41.1
+REC-0106,EMP-48660,I&TF,AI for Leaders,20.8,75.9,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,19.2,65900.0,70.8
+REC-0107,EMP-13561,Finance,Deep Technical & LLMOps,25.9,90.7,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Joint R&D Lab,Fully Deployed,31.0,126700.0,91.2
+REC-0108,EMP-36854,Legal Affairs,Deep Technical & LLMOps,53.8,96.4,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Joint R&D Lab,Development,18.5,211800.0,2.5
+REC-0109,EMP-74505,Finance,Deep Technical & LLMOps,25.0,92.5,Predictive Machine Learning,Supplier Risk Analysis,MBZUAI,Sponsored Capstone,Development,13.2,34700.0,45.0
+REC-0110,EMP-62251,Distribution Power,AI Literacy,20.1,87.1,Predictive Machine Learning,Grid Recloser Optimizer,None,None,UAT & Testing,18.3,169200.0,36.6
+REC-0111,EMP-32662,Distribution Power,AI Literacy,39.9,91.6,Predictive Machine Learning,Grid Recloser Optimizer,Heriot-Watt University,Reverse Hackathon,Development,12.4,61100.0,7.5
+REC-0112,EMP-18392,Power & Water Planning,AI for Leaders,21.7,73.5,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,13.9,64800.0,41.8
+REC-0113,EMP-40535,Distribution Power,Deep Technical & LLMOps,57.3,79.4,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,11.8,11400.0,13.3
+REC-0114,EMP-88603,Water & Civil,AI Literacy,46.2,65.2,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,25.5,71700.0,90.4
+REC-0115,EMP-62256,Legal Affairs,AI Literacy,15.0,90.3,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,20.9,125900.0,74.3
+REC-0116,EMP-99135,Water & Civil,Deep Technical & LLMOps,17.9,83.1,Computer Vision,Reservoir Volumetric AI,None,None,Ideation,9.0,9100.0,0.0
+REC-0117,EMP-45222,Finance,AI Literacy,43.4,80.9,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Reverse Hackathon,Fully Deployed,31.8,334200.0,94.5
+REC-0118,EMP-87373,Power & Water Planning,Deep Technical & LLMOps,37.7,90.7,Predictive Machine Learning,Smart Load Forecasting,Heriot-Watt University,Sponsored Capstone,Development,9.7,22000.0,53.7
+REC-0119,EMP-89575,Legal Affairs,Deep Technical & LLMOps,44.9,76.8,Generative AI (LLMs),Contract Compliance Parser,None,None,Development,6.9,35100.0,36.9
+REC-0120,EMP-94651,I&TF,Deep Technical & LLMOps,20.9,94.0,Generative AI (LLMs),AI Developer Copilot,None,None,Development,11.3,60600.0,3.0
+REC-0121,EMP-73335,Distribution Power,AI Literacy,24.8,40.3,Agentic AI Workflows,LV Power Restoration,MBZUAI,Joint R&D Lab,Fully Deployed,31.1,94800.0,92.2
+REC-0122,EMP-20965,Power & Water Planning,AI Literacy,18.5,72.5,Predictive Machine Learning,Digital Twin Simulation,Heriot-Watt University,Sponsored Capstone,UAT & Testing,23.1,172100.0,42.1
+REC-0123,EMP-34538,Transmission Power,Deep Technical & LLMOps,17.9,99.0,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,26.3,49600.0,76.4
+REC-0124,EMP-80592,Water & Civil,Deep Technical & LLMOps,12.3,61.3,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Reverse Hackathon,Ideation,3.9,5000.0,0.0
+REC-0125,EMP-18110,Legal Affairs,Deep Technical & LLMOps,42.2,94.7,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Joint R&D Lab,Optimizing,26.5,117800.0,94.5
+REC-0126,EMP-89309,Water & Civil,AI Literacy,27.6,85.5,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,30.7,111900.0,94.5
+REC-0127,EMP-37266,Water & Civil,AI for Leaders,29.7,90.0,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Development,6.0,47000.0,1.2
+REC-0128,EMP-62992,Power & Water Planning,Deep Technical & LLMOps,43.7,93.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,27.2,132300.0,77.9
+REC-0129,EMP-92948,I&TF,Deep Technical & LLMOps,10.0,57.3,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,22.5,57000.0,44.3
+REC-0130,EMP-16910,Distribution Power,Deep Technical & LLMOps,27.7,93.4,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,2.5,5000.0,0.0
+REC-0131,EMP-10206,Power & Water Planning,Deep Technical & LLMOps,47.7,83.3,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Sponsored Capstone,Development,15.0,35900.0,2.8
+REC-0132,EMP-97054,Transmission Power,Deep Technical & LLMOps,10.0,86.7,Computer Vision,Insulator Wear Classifier,RIT Dubai,Joint R&D Lab,Ideation,6.7,5000.0,0.0
+REC-0133,EMP-97897,I&TF,AI Literacy,44.2,84.3,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,37.7,125300.0,75.5
+REC-0134,EMP-33419,I&TF,AI for Leaders,28.0,95.2,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,20.0,32500.0,29.4
+REC-0135,EMP-60636,I&TF,AI Literacy,27.9,98.7,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Reverse Hackathon,Development,11.7,53500.0,7.4
+REC-0136,EMP-60015,Finance,AI for Leaders,29.3,91.2,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Ideation,5.6,37500.0,0.0
+REC-0137,EMP-64268,Distribution Power,AI for Leaders,10.0,71.6,Agentic AI Workflows,SCADA Fault Routing,None,None,UAT & Testing,25.3,44200.0,34.6
+REC-0138,EMP-97939,Water & Civil,AI Literacy,10.0,91.3,Autonomous IoT & Sensors,Autonomous Leak Detection,Heriot-Watt University,Reverse Hackathon,UAT & Testing,24.9,28700.0,49.7
+REC-0139,EMP-28141,Water & Civil,AI for Leaders,40.2,76.6,Computer Vision,Structural Crack Inspection,RIT Dubai,Reverse Hackathon,Fully Deployed,22.0,295900.0,74.1
+REC-0140,EMP-90356,Business Development & Execution,AI Literacy,10.0,91.6,Generative AI (LLMs),Market Feasibility Generator,MBZUAI,Sponsored Capstone,Optimizing,26.8,608700.0,96.9
+REC-0141,EMP-81910,Legal Affairs,Deep Technical & LLMOps,16.7,95.3,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,15.8,29200.0,22.7
+REC-0142,EMP-66044,Finance,Deep Technical & LLMOps,69.6,93.1,Agentic AI Workflows,Invoice Matcher Agent,None,None,UAT & Testing,22.9,73400.0,32.1
+REC-0143,EMP-77214,Billing,AI Literacy,22.5,96.3,Generative AI (LLMs),Generative Bill Explanation,Heriot-Watt University,Joint R&D Lab,Development,10.0,58300.0,22.5
+REC-0144,EMP-43827,Distribution Power,Deep Technical & LLMOps,31.5,95.2,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,30.8,96200.0,39.2
+REC-0145,EMP-65820,Finance,AI for Leaders,12.8,83.6,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,17.1,9700.0,17.2
+REC-0146,EMP-72623,Power & Water Planning,AI Literacy,47.9,74.2,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,15.4,13200.0,17.2
+REC-0147,EMP-91734,Water & Civil,AI Literacy,10.0,59.9,Computer Vision,Structural Crack Inspection,None,None,Fully Deployed,40.3,43000.0,80.6
+REC-0148,EMP-85450,Transmission Power,Deep Technical & LLMOps,41.6,92.2,Computer Vision,Overhead Line Monitoring,Heriot-Watt University,Sponsored Capstone,Ideation,3.6,5000.0,0.0
+REC-0149,EMP-32299,Distribution Power,Deep Technical & LLMOps,10.0,93.9,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,3.7,42300.0,15.6
+REC-0150,EMP-53585,Power & Water Planning,Deep Technical & LLMOps,60.9,88.7,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Sponsored Capstone,Fully Deployed,29.6,285100.0,54.1
+REC-0151,EMP-74044,Water & Civil,AI Literacy,34.7,88.1,Computer Vision,Reservoir Volumetric AI,None,None,Development,7.7,13300.0,38.7
+REC-0152,EMP-52557,Billing,AI Literacy,10.0,88.2,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Sponsored Capstone,Development,6.2,21100.0,9.0
+REC-0153,EMP-59080,Transmission Power,AI for Leaders,23.4,96.4,Computer Vision,Insulator Wear Classifier,None,None,UAT & Testing,24.5,32500.0,46.0
+REC-0154,EMP-12693,Power & Water Planning,AI Literacy,33.8,85.1,Predictive Machine Learning,Digital Twin Simulation,None,None,UAT & Testing,16.4,99500.0,16.4
+REC-0155,EMP-79163,Power & Water Planning,AI Literacy,13.0,98.6,Predictive Machine Learning,Grid Expansion Planner,RIT Dubai,Sponsored Capstone,Ideation,3.4,5100.0,0.0
+REC-0156,EMP-35939,Business Development & Execution,AI Literacy,17.7,92.1,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Joint R&D Lab,Optimizing,29.8,66000.0,83.1
+REC-0157,EMP-58925,Water & Civil,Deep Technical & LLMOps,50.6,74.0,Computer Vision,Structural Crack Inspection,None,None,Ideation,8.3,5000.0,0.0
+REC-0158,EMP-52941,Distribution Power,Deep Technical & LLMOps,24.4,87.9,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,31.0,351500.0,88.1
+REC-0159,EMP-31834,Billing,AI for Leaders,45.4,95.2,Predictive Machine Learning,Billing Anomaly Detection,RIT Dubai,Joint R&D Lab,Ideation,6.9,56900.0,0.0
+REC-0160,EMP-28047,Power & Water Planning,Deep Technical & LLMOps,32.1,87.8,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,18.7,84500.0,41.6
+REC-0161,EMP-36105,Billing,AI for Leaders,33.3,81.3,Predictive Machine Learning,Revenue Risk Profiler,RIT Dubai,Sponsored Capstone,Development,7.3,129600.0,1.1
+REC-0162,EMP-85766,Transmission Power,AI for Leaders,41.0,60.2,Computer Vision,Overhead Line Monitoring,MBZUAI,Sponsored Capstone,Ideation,2.6,6300.0,0.0
+REC-0163,EMP-25707,Business Development & Execution,AI Literacy,54.9,86.8,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Reverse Hackathon,Ideation,5.0,9900.0,0.0
+REC-0164,EMP-31976,Business Development & Execution,Deep Technical & LLMOps,10.2,73.7,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Reverse Hackathon,UAT & Testing,20.4,133000.0,12.3
+REC-0165,EMP-54262,Finance,Deep Technical & LLMOps,39.2,88.8,Predictive Machine Learning,Supplier Risk Analysis,None,None,UAT & Testing,22.2,43300.0,51.4
+REC-0166,EMP-33776,Distribution Power,Deep Technical & LLMOps,61.8,89.3,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,6.1,8700.0,0.0
+REC-0167,EMP-40080,Water & Civil,AI for Leaders,38.3,92.2,Computer Vision,Structural Crack Inspection,Heriot-Watt University,Joint R&D Lab,Optimizing,37.4,118100.0,80.2
+REC-0168,EMP-76842,Billing,Deep Technical & LLMOps,29.4,56.8,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,9.7,56000.0,8.4
+REC-0169,EMP-71373,Legal Affairs,AI Literacy,50.7,99.3,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Reverse Hackathon,UAT & Testing,27.3,83000.0,32.0
+REC-0170,EMP-16776,Power & Water Planning,Deep Technical & LLMOps,68.2,96.4,Predictive Machine Learning,Digital Twin Simulation,None,None,Development,17.8,22100.0,6.0
+REC-0171,EMP-65016,Power & Water Planning,Deep Technical & LLMOps,31.0,97.8,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Joint R&D Lab,UAT & Testing,17.9,62100.0,40.9
+REC-0172,EMP-19474,Water & Civil,AI Literacy,35.0,80.4,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,27.2,289000.0,88.0
+REC-0173,EMP-68053,Power & Water Planning,Deep Technical & LLMOps,35.0,92.0,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,12.9,122500.0,14.7
+REC-0174,EMP-31959,Water & Civil,Deep Technical & LLMOps,10.0,84.5,Computer Vision,Structural Crack Inspection,RIT Dubai,Joint R&D Lab,Development,12.5,57100.0,14.2
+REC-0175,EMP-15530,Distribution Power,AI Literacy,41.5,83.2,Agentic AI Workflows,LV Power Restoration,None,None,Development,13.4,240000.0,12.3
+REC-0176,EMP-13748,I&TF,Deep Technical & LLMOps,10.0,67.3,Generative AI (LLMs),Agentic IT Helpdesk,MBZUAI,Joint R&D Lab,Fully Deployed,28.5,47900.0,42.9
+REC-0177,EMP-23545,Legal Affairs,AI Literacy,36.3,79.5,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Reverse Hackathon,Ideation,5.6,17400.0,0.0
+REC-0178,EMP-76199,Business Development & Execution,Deep Technical & LLMOps,10.0,78.6,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Reverse Hackathon,Development,7.8,41300.0,29.4
+REC-0179,EMP-44766,Finance,Deep Technical & LLMOps,10.0,68.5,Agentic AI Workflows,Automated Audit Reconciliation,Heriot-Watt University,Joint R&D Lab,Development,14.9,52000.0,43.1
+REC-0180,EMP-83530,Billing,Deep Technical & LLMOps,16.4,99.3,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Joint R&D Lab,Development,10.4,45700.0,32.1
+REC-0181,EMP-71087,Finance,Deep Technical & LLMOps,14.2,88.2,Predictive Machine Learning,Supplier Risk Analysis,Heriot-Watt University,Sponsored Capstone,Development,12.9,22500.0,22.9
+REC-0182,EMP-78840,Distribution Power,AI for Leaders,41.3,57.1,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Joint R&D Lab,Fully Deployed,33.3,51800.0,54.7
+REC-0183,EMP-64384,Billing,AI Literacy,16.4,73.5,Predictive Machine Learning,Billing Anomaly Detection,RIT Dubai,Joint R&D Lab,Fully Deployed,20.2,118400.0,89.0
+REC-0184,EMP-61005,Distribution Power,Deep Technical & LLMOps,10.0,79.7,Agentic AI Workflows,LV Power Restoration,None,None,UAT & Testing,23.3,42200.0,24.3
+REC-0185,EMP-56576,Finance,AI Literacy,13.1,75.3,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,9.6,29400.0,18.9
+REC-0186,EMP-49353,Distribution Power,AI for Leaders,27.2,80.9,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,UAT & Testing,20.8,149500.0,17.3
+REC-0187,EMP-72003,I&TF,AI Literacy,28.1,63.1,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Joint R&D Lab,UAT & Testing,14.4,29600.0,44.3
+REC-0188,EMP-93211,Billing,AI Literacy,26.3,87.8,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Joint R&D Lab,UAT & Testing,18.1,67700.0,11.0
+REC-0189,EMP-62733,Legal Affairs,Deep Technical & LLMOps,43.3,90.4,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Ideation,5.7,22900.0,0.0
+REC-0190,EMP-75318,Transmission Power,AI Literacy,47.4,79.6,Computer Vision,Insulator Wear Classifier,None,None,Optimizing,25.5,98700.0,91.0
+REC-0191,EMP-99474,Water & Civil,Deep Technical & LLMOps,34.7,91.2,Computer Vision,Reservoir Volumetric AI,None,None,UAT & Testing,15.9,255900.0,64.6
+REC-0192,EMP-33664,Business Development & Execution,AI Literacy,21.3,79.1,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Joint R&D Lab,Optimizing,32.8,42800.0,83.2
+REC-0193,EMP-77172,I&TF,AI Literacy,18.4,92.6,Generative AI (LLMs),AI Developer Copilot,Heriot-Watt University,Sponsored Capstone,Ideation,4.7,42300.0,0.0
+REC-0194,EMP-95616,Legal Affairs,AI for Leaders,62.8,79.5,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Reverse Hackathon,Development,13.0,40100.0,14.6
+REC-0195,EMP-36736,Business Development & Execution,AI Literacy,26.0,98.4,Generative AI (LLMs),AI Bid Evaluator,None,None,Ideation,4.3,5000.0,0.0
+REC-0196,EMP-10854,I&TF,AI Literacy,31.4,68.1,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,35.8,230700.0,78.9
+REC-0197,EMP-48623,Power & Water Planning,Deep Technical & LLMOps,14.6,71.0,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Joint R&D Lab,Development,10.3,55700.0,12.5
+REC-0198,EMP-17392,Billing,AI Literacy,14.7,65.9,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,35.6,357900.0,88.2
+REC-0199,EMP-65680,I&TF,Deep Technical & LLMOps,10.0,64.8,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Sponsored Capstone,Fully Deployed,26.6,34700.0,78.3
+REC-0200,EMP-56717,Distribution Power,AI Literacy,25.0,84.3,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Joint R&D Lab,Fully Deployed,28.3,49300.0,78.6
+REC-0201,EMP-97092,Billing,AI Literacy,16.0,36.4,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,36.4,219300.0,89.5
+REC-0202,EMP-60859,Water & Civil,AI for Leaders,18.8,92.8,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,28.9,910700.0,80.1
+REC-0203,EMP-36309,Business Development & Execution,AI Literacy,47.9,92.0,Generative AI (LLMs),Market Feasibility Generator,Heriot-Watt University,Sponsored Capstone,Fully Deployed,25.0,187700.0,67.6
+REC-0204,EMP-97455,Legal Affairs,AI Literacy,10.0,60.0,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Joint R&D Lab,Development,17.2,70800.0,3.3
+REC-0205,EMP-73734,I&TF,AI Literacy,13.7,60.4,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,31.8,64400.0,83.9
+REC-0206,EMP-80467,Water & Civil,AI Literacy,27.8,85.2,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,34.8,102400.0,73.7
+REC-0207,EMP-62662,Billing,Deep Technical & LLMOps,25.7,91.3,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,5.2,24000.0,21.8
+REC-0208,EMP-22688,Power & Water Planning,AI for Leaders,54.7,86.1,Predictive Machine Learning,Grid Expansion Planner,RIT Dubai,Sponsored Capstone,Optimizing,40.0,221300.0,86.9
+REC-0209,EMP-35342,Legal Affairs,Deep Technical & LLMOps,10.0,67.9,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Reverse Hackathon,Ideation,10.3,20800.0,0.0
+REC-0210,EMP-47157,Power & Water Planning,Deep Technical & LLMOps,50.6,69.4,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,15.7,45800.0,2.7
+REC-0211,EMP-77863,Distribution Power,AI for Leaders,10.0,92.7,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,7.8,18700.0,0.0
+REC-0212,EMP-62083,Billing,Deep Technical & LLMOps,18.1,82.2,Predictive Machine Learning,Revenue Risk Profiler,Heriot-Watt University,Reverse Hackathon,Ideation,4.2,9600.0,0.0
+REC-0213,EMP-75733,Distribution Power,AI Literacy,10.0,85.0,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,33.5,341800.0,92.8
+REC-0214,EMP-99045,Distribution Power,Deep Technical & LLMOps,10.0,61.2,Agentic AI Workflows,SCADA Fault Routing,None,None,Optimizing,34.9,74300.0,83.0
+REC-0215,EMP-44698,Business Development & Execution,AI Literacy,49.4,82.1,Generative AI (LLMs),AI Bid Evaluator,Heriot-Watt University,Reverse Hackathon,Fully Deployed,27.8,367700.0,86.5
+REC-0216,EMP-90623,Water & Civil,Deep Technical & LLMOps,11.9,95.4,Computer Vision,Reservoir Volumetric AI,MBZUAI,Joint R&D Lab,Optimizing,31.3,83500.0,78.8
+REC-0217,EMP-32671,Power & Water Planning,AI for Leaders,36.6,94.7,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,9.0,40000.0,5.3
+REC-0218,EMP-35184,Water & Civil,AI for Leaders,15.2,62.9,Computer Vision,Structural Crack Inspection,None,None,Ideation,4.2,5000.0,0.0
+REC-0219,EMP-52107,Legal Affairs,Deep Technical & LLMOps,55.5,88.6,Generative AI (LLMs),NDA Auto-Review Agent,None,None,UAT & Testing,23.4,118400.0,20.1
+REC-0220,EMP-96202,Business Development & Execution,Deep Technical & LLMOps,16.2,73.2,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,21.4,131600.0,78.0
+REC-0221,EMP-61663,Distribution Power,AI Literacy,20.1,84.3,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Sponsored Capstone,Ideation,6.9,17800.0,0.0
+REC-0222,EMP-25708,Distribution Power,AI Literacy,13.3,69.9,Agentic AI Workflows,LV Power Restoration,MBZUAI,Joint R&D Lab,Optimizing,22.5,37000.0,74.5
+REC-0223,EMP-59811,Distribution Power,Deep Technical & LLMOps,10.0,54.0,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,32.3,131800.0,91.2
+REC-0224,EMP-12811,Water & Civil,Deep Technical & LLMOps,39.1,98.2,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Joint R&D Lab,Optimizing,32.9,204500.0,90.9
+REC-0225,EMP-66250,Legal Affairs,Deep Technical & LLMOps,24.2,79.8,Generative AI (LLMs),Contract Compliance Parser,None,None,Development,13.7,17900.0,0.3
+REC-0226,EMP-82082,Finance,Deep Technical & LLMOps,10.0,94.1,Agentic AI Workflows,Automated Audit Reconciliation,None,None,UAT & Testing,19.3,121000.0,61.5
+REC-0227,EMP-44754,Finance,Deep Technical & LLMOps,56.2,80.9,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,25.7,18900.0,76.9
+REC-0228,EMP-21411,I&TF,Deep Technical & LLMOps,17.4,94.4,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Sponsored Capstone,Fully Deployed,33.1,107000.0,88.8
+REC-0229,EMP-12911,Power & Water Planning,AI Literacy,10.0,83.0,Predictive Machine Learning,Digital Twin Simulation,None,None,Development,18.5,122200.0,49.1
+REC-0230,EMP-77270,Water & Civil,AI Literacy,10.0,75.7,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Optimizing,31.9,132800.0,96.8
+REC-0231,EMP-93763,Transmission Power,Deep Technical & LLMOps,10.0,86.4,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,26.7,66600.0,70.5
+REC-0232,EMP-18680,Power & Water Planning,Deep Technical & LLMOps,31.6,77.0,Predictive Machine Learning,Grid Expansion Planner,None,None,Ideation,4.1,9400.0,0.0
+REC-0233,EMP-94896,Distribution Power,AI Literacy,40.2,96.8,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Joint R&D Lab,Ideation,5.3,10700.0,0.0
+REC-0234,EMP-93879,Billing,AI for Leaders,18.7,88.2,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Sponsored Capstone,UAT & Testing,18.9,161800.0,56.0
+REC-0235,EMP-81295,Finance,Deep Technical & LLMOps,82.1,94.1,Predictive Machine Learning,Supplier Risk Analysis,Heriot-Watt University,Sponsored Capstone,UAT & Testing,18.4,87600.0,26.4
+REC-0236,EMP-98614,Billing,AI for Leaders,16.8,80.9,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Reverse Hackathon,Fully Deployed,40.0,217900.0,91.3
+REC-0237,EMP-21111,Finance,AI for Leaders,21.9,83.7,Agentic AI Workflows,Invoice Matcher Agent,None,None,Ideation,6.0,10600.0,0.0
+REC-0238,EMP-47504,Transmission Power,AI for Leaders,10.0,77.4,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,31.3,65000.0,78.7
+REC-0239,EMP-11802,Billing,AI Literacy,20.8,97.9,Generative AI (LLMs),Generative Bill Explanation,None,None,Fully Deployed,31.3,38600.0,95.3
+REC-0240,EMP-18155,Distribution Power,AI Literacy,43.4,96.9,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,12.5,53200.0,32.8
+REC-0241,EMP-83656,I&TF,AI Literacy,60.9,98.6,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Reverse Hackathon,UAT & Testing,22.2,10900.0,20.2
+REC-0242,EMP-49384,Distribution Power,AI Literacy,35.7,89.8,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,15.8,9600.0,19.1
+REC-0243,EMP-57254,Legal Affairs,Deep Technical & LLMOps,10.0,77.0,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Reverse Hackathon,Ideation,4.2,5000.0,0.0
+REC-0244,EMP-31918,Transmission Power,AI for Leaders,10.0,52.6,Computer Vision,Insulator Wear Classifier,MBZUAI,Sponsored Capstone,UAT & Testing,16.0,139900.0,58.9
+REC-0245,EMP-95981,Water & Civil,Deep Technical & LLMOps,10.0,66.5,Computer Vision,Structural Crack Inspection,None,None,Optimizing,28.7,45000.0,93.5
+REC-0246,EMP-70713,Power & Water Planning,Deep Technical & LLMOps,10.5,81.8,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,9.4,57500.0,5.0
+REC-0247,EMP-40306,Billing,AI Literacy,15.2,88.6,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,7.4,17300.0,10.5
+REC-0248,EMP-26646,Distribution Power,Deep Technical & LLMOps,10.0,72.6,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Reverse Hackathon,Development,16.2,35100.0,31.0
+REC-0249,EMP-56843,Power & Water Planning,AI for Leaders,34.9,92.0,Predictive Machine Learning,Digital Twin Simulation,None,None,Development,14.6,37600.0,22.2
+REC-0250,EMP-26371,I&TF,Deep Technical & LLMOps,10.0,76.7,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Sponsored Capstone,UAT & Testing,10.9,69400.0,29.5
+REC-0251,EMP-87371,Distribution Power,AI Literacy,29.7,80.9,Agentic AI Workflows,LV Power Restoration,MBZUAI,Joint R&D Lab,Fully Deployed,33.3,70600.0,89.7
+REC-0252,EMP-12049,Finance,Deep Technical & LLMOps,39.5,74.1,Predictive Machine Learning,Supplier Risk Analysis,None,None,Ideation,4.2,5000.0,0.0
+REC-0253,EMP-41616,Transmission Power,Deep Technical & LLMOps,18.3,94.6,Computer Vision,Overhead Line Monitoring,None,None,Optimizing,29.0,151300.0,66.9
+REC-0254,EMP-30932,Power & Water Planning,AI Literacy,46.7,84.0,Predictive Machine Learning,Smart Load Forecasting,None,None,Ideation,0.0,15400.0,0.0
+REC-0255,EMP-39855,Power & Water Planning,AI Literacy,31.3,86.6,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,31.8,204000.0,89.4
+REC-0256,EMP-71434,Transmission Power,Deep Technical & LLMOps,14.5,61.9,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,32.5,126500.0,78.9
+REC-0257,EMP-82694,I&TF,Deep Technical & LLMOps,19.1,80.5,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,15.3,97000.0,32.6
+REC-0258,EMP-53016,Transmission Power,AI for Leaders,14.1,59.1,Computer Vision,Overhead Line Monitoring,None,None,Ideation,8.2,5300.0,0.0
+REC-0259,EMP-17400,I&TF,Deep Technical & LLMOps,38.2,94.6,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,23.2,113100.0,45.6
+REC-0260,EMP-52642,Billing,AI for Leaders,33.3,92.5,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,25.6,164800.0,95.3
+REC-0261,EMP-25151,Business Development & Execution,Deep Technical & LLMOps,26.5,71.5,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,38.1,93300.0,54.3
+REC-0262,EMP-61407,Business Development & Execution,AI Literacy,10.0,63.8,Generative AI (LLMs),Market Feasibility Generator,MBZUAI,Reverse Hackathon,UAT & Testing,18.1,82100.0,52.9
+REC-0263,EMP-76690,Transmission Power,Deep Technical & LLMOps,12.9,92.8,Computer Vision,Insulator Wear Classifier,None,None,UAT & Testing,24.2,77300.0,52.8
+REC-0264,EMP-14499,Billing,AI Literacy,10.4,86.7,Predictive Machine Learning,Revenue Risk Profiler,None,None,Fully Deployed,23.3,170700.0,90.7
+REC-0265,EMP-16295,Distribution Power,AI Literacy,10.0,55.2,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,Optimizing,33.0,43100.0,99.1
+REC-0266,EMP-69040,Finance,AI Literacy,10.0,71.0,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,24.7,33900.0,97.4
+REC-0267,EMP-22183,Power & Water Planning,AI Literacy,10.0,68.8,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Sponsored Capstone,Fully Deployed,27.0,35300.0,71.5
+REC-0268,EMP-39299,Legal Affairs,AI for Leaders,19.1,88.3,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,12.3,55300.0,42.1
+REC-0269,EMP-22874,Water & Civil,AI Literacy,37.1,99.0,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,24.6,170500.0,78.5
+REC-0270,EMP-42711,Legal Affairs,Deep Technical & LLMOps,14.9,53.3,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Sponsored Capstone,Fully Deployed,24.6,19600.0,84.6
+REC-0271,EMP-15539,I&TF,AI Literacy,19.2,87.3,Generative AI (LLMs),AI Developer Copilot,Heriot-Watt University,Sponsored Capstone,Fully Deployed,23.8,127700.0,77.9
+REC-0272,EMP-63351,Water & Civil,AI for Leaders,20.9,77.2,Computer Vision,Structural Crack Inspection,None,None,Development,12.6,102600.0,20.4
+REC-0273,EMP-71267,I&TF,AI Literacy,21.6,78.7,Generative AI (LLMs),Agentic IT Helpdesk,Heriot-Watt University,Reverse Hackathon,UAT & Testing,12.9,98300.0,42.6
+REC-0274,EMP-58354,Business Development & Execution,AI Literacy,24.5,88.1,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Reverse Hackathon,UAT & Testing,21.2,15700.0,7.3
+REC-0275,EMP-12557,Transmission Power,AI Literacy,46.7,89.9,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Reverse Hackathon,Development,15.0,59900.0,0.7
+REC-0276,EMP-48360,Business Development & Execution,AI for Leaders,18.8,76.3,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,9.3,47900.0,5.6
+REC-0277,EMP-92018,Distribution Power,AI for Leaders,47.7,93.3,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,31.5,90100.0,86.5
+REC-0278,EMP-12200,Transmission Power,AI for Leaders,23.1,88.2,Computer Vision,Overhead Line Monitoring,None,None,UAT & Testing,18.7,91300.0,66.7
+REC-0279,EMP-78497,Business Development & Execution,AI for Leaders,20.2,93.4,Generative AI (LLMs),Market Feasibility Generator,None,None,Ideation,4.2,5000.0,0.0
+REC-0280,EMP-56975,Billing,Deep Technical & LLMOps,71.1,94.9,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,16.7,123400.0,57.5
+REC-0281,EMP-31357,I&TF,AI Literacy,39.2,92.5,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,25.2,173700.0,84.0
+REC-0282,EMP-87505,Water & Civil,AI for Leaders,10.0,71.1,Computer Vision,Structural Crack Inspection,Heriot-Watt University,Sponsored Capstone,UAT & Testing,25.8,45400.0,24.8
+REC-0283,EMP-12869,Legal Affairs,Deep Technical & LLMOps,30.8,97.1,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Development,13.0,27100.0,30.8
+REC-0284,EMP-71135,Legal Affairs,AI for Leaders,10.0,82.2,Generative AI (LLMs),Contract Compliance Parser,None,None,Optimizing,30.6,94000.0,84.3
+REC-0285,EMP-60108,Power & Water Planning,Deep Technical & LLMOps,23.1,56.8,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,19.9,81000.0,70.3
+REC-0286,EMP-48467,Transmission Power,AI for Leaders,10.0,77.0,Computer Vision,Thermal Substations Inspection,MBZUAI,Joint R&D Lab,Development,13.8,20300.0,3.1
+REC-0287,EMP-33328,Legal Affairs,Deep Technical & LLMOps,27.3,89.4,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Sponsored Capstone,Ideation,3.2,5300.0,0.0
+REC-0288,EMP-96831,Water & Civil,Deep Technical & LLMOps,54.9,89.3,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Joint R&D Lab,UAT & Testing,15.1,119300.0,28.9
+REC-0289,EMP-13987,Distribution Power,AI for Leaders,30.8,72.6,Agentic AI Workflows,SCADA Fault Routing,RIT Dubai,Reverse Hackathon,Fully Deployed,25.2,29400.0,78.0
+REC-0290,EMP-68871,Legal Affairs,Deep Technical & LLMOps,17.6,81.9,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Development,13.5,45700.0,10.4
+REC-0291,EMP-32399,Power & Water Planning,AI Literacy,14.6,54.5,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Sponsored Capstone,UAT & Testing,19.7,119200.0,48.2
+REC-0292,EMP-56214,Transmission Power,AI Literacy,51.5,94.1,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,23.5,26800.0,44.1
+REC-0293,EMP-96416,Billing,Deep Technical & LLMOps,29.6,87.7,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Sponsored Capstone,Fully Deployed,38.8,111400.0,63.8
+REC-0294,EMP-80271,Legal Affairs,Deep Technical & LLMOps,48.2,99.2,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Reverse Hackathon,UAT & Testing,17.0,37900.0,53.0
+REC-0295,EMP-54064,Legal Affairs,AI Literacy,36.2,92.5,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,19.8,196000.0,55.3
+REC-0296,EMP-80091,Legal Affairs,AI Literacy,19.4,75.3,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Sponsored Capstone,Optimizing,30.2,125600.0,85.3
+REC-0297,EMP-50818,I&TF,AI Literacy,25.9,77.2,Generative AI (LLMs),AI Developer Copilot,None,None,Development,7.9,128300.0,11.2
+REC-0298,EMP-55525,Business Development & Execution,AI Literacy,59.3,96.7,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Joint R&D Lab,Development,8.3,113700.0,13.9
+REC-0299,EMP-29830,Business Development & Execution,Deep Technical & LLMOps,21.8,91.1,Generative AI (LLMs),Market Feasibility Generator,Heriot-Watt University,Joint R&D Lab,Fully Deployed,31.0,151500.0,90.3
+REC-0300,EMP-27429,Billing,Deep Technical & LLMOps,14.1,69.6,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,11.8,219200.0,22.7
+REC-0301,EMP-16893,Business Development & Execution,AI Literacy,12.8,75.3,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,31.7,33600.0,57.1
+REC-0302,EMP-89909,Power & Water Planning,AI for Leaders,37.0,97.8,Predictive Machine Learning,Smart Load Forecasting,RIT Dubai,Joint R&D Lab,Ideation,4.9,31400.0,0.0
+REC-0303,EMP-57333,Distribution Power,AI Literacy,15.6,84.4,Predictive Machine Learning,Grid Recloser Optimizer,Heriot-Watt University,Sponsored Capstone,Ideation,3.4,8000.0,0.0
+REC-0304,EMP-13436,Billing,AI Literacy,18.1,77.8,Generative AI (LLMs),Generative Bill Explanation,None,None,Optimizing,44.7,133800.0,92.5
+REC-0305,EMP-84290,Water & Civil,Deep Technical & LLMOps,42.3,89.3,Computer Vision,Reservoir Volumetric AI,None,None,UAT & Testing,20.9,54600.0,24.9
+REC-0306,EMP-86213,Power & Water Planning,Deep Technical & LLMOps,10.0,94.2,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,28.5,37100.0,71.2
+REC-0307,EMP-15895,Transmission Power,Deep Technical & LLMOps,24.3,84.3,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Sponsored Capstone,Development,13.2,62300.0,6.2
+REC-0308,EMP-29738,Finance,AI Literacy,46.2,92.9,Predictive Machine Learning,Supplier Risk Analysis,None,None,Development,9.4,14600.0,19.9
+REC-0309,EMP-40746,Transmission Power,Deep Technical & LLMOps,27.1,79.9,Computer Vision,Overhead Line Monitoring,MBZUAI,Joint R&D Lab,Fully Deployed,32.2,73800.0,59.3
+REC-0310,EMP-59377,Power & Water Planning,Deep Technical & LLMOps,23.4,67.7,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Sponsored Capstone,Development,13.2,25500.0,1.8
+REC-0311,EMP-58404,Billing,Deep Technical & LLMOps,33.5,84.7,Predictive Machine Learning,Billing Anomaly Detection,None,None,UAT & Testing,22.2,175100.0,22.3
+REC-0312,EMP-64045,I&TF,AI for Leaders,29.4,99.7,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Joint R&D Lab,Ideation,2.5,9300.0,0.0
+REC-0313,EMP-49790,Business Development & Execution,AI Literacy,21.0,86.5,Generative AI (LLMs),Market Feasibility Generator,MBZUAI,Reverse Hackathon,Development,21.1,5600.0,16.7
+REC-0314,EMP-15600,Billing,AI for Leaders,10.0,89.1,Predictive Machine Learning,Billing Anomaly Detection,RIT Dubai,Joint R&D Lab,Fully Deployed,39.1,57700.0,90.4
+REC-0315,EMP-50764,Distribution Power,AI Literacy,34.9,69.9,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Reverse Hackathon,Fully Deployed,44.2,33900.0,77.6
+REC-0316,EMP-84543,Business Development & Execution,AI Literacy,10.0,86.6,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,30.5,177100.0,86.5
+REC-0317,EMP-55714,Distribution Power,AI Literacy,37.4,92.9,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,33.5,46000.0,57.7
+REC-0318,EMP-66835,Billing,AI for Leaders,10.0,79.0,Predictive Machine Learning,Revenue Risk Profiler,RIT Dubai,Reverse Hackathon,UAT & Testing,20.1,48600.0,42.5
+REC-0319,EMP-83744,Power & Water Planning,Deep Technical & LLMOps,10.0,88.4,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,17.8,320300.0,55.2
+REC-0320,EMP-66491,Business Development & Execution,AI for Leaders,26.1,99.2,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,36.5,197200.0,75.7
+REC-0321,EMP-28589,Power & Water Planning,AI Literacy,18.9,83.4,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,9.3,15600.0,11.1
+REC-0322,EMP-53484,Business Development & Execution,Deep Technical & LLMOps,16.4,88.6,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Reverse Hackathon,Development,14.1,76400.0,8.4
+REC-0323,EMP-92989,I&TF,Deep Technical & LLMOps,67.6,97.0,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Optimizing,29.0,83400.0,89.9
+REC-0324,EMP-46212,Legal Affairs,Deep Technical & LLMOps,36.9,98.5,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Ideation,5.8,19100.0,0.0
+REC-0325,EMP-53525,Business Development & Execution,Deep Technical & LLMOps,10.0,90.0,Generative AI (LLMs),Market Feasibility Generator,MBZUAI,Joint R&D Lab,Ideation,7.9,7100.0,0.0
+REC-0326,EMP-57202,Legal Affairs,AI for Leaders,45.2,94.2,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Joint R&D Lab,UAT & Testing,19.5,36600.0,72.0
+REC-0327,EMP-42635,Finance,Deep Technical & LLMOps,40.5,87.4,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Sponsored Capstone,Fully Deployed,36.7,51000.0,80.5
+REC-0328,EMP-73208,Transmission Power,AI Literacy,28.8,93.0,Computer Vision,Overhead Line Monitoring,None,None,UAT & Testing,18.0,99400.0,50.7
+REC-0329,EMP-43828,Finance,AI Literacy,14.8,80.1,Agentic AI Workflows,Automated Audit Reconciliation,RIT Dubai,Sponsored Capstone,Development,8.5,82000.0,8.8
+REC-0330,EMP-28711,I&TF,AI Literacy,35.9,89.2,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Optimizing,42.0,199500.0,78.9
+REC-0331,EMP-13420,Distribution Power,AI Literacy,25.4,73.5,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Reverse Hackathon,Fully Deployed,36.5,83800.0,81.7
+REC-0332,EMP-10301,Business Development & Execution,AI Literacy,40.3,94.9,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,31.2,28100.0,62.2
+REC-0333,EMP-55236,Legal Affairs,Deep Technical & LLMOps,10.9,56.4,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Joint R&D Lab,Ideation,6.4,5900.0,0.0
+REC-0334,EMP-76235,Transmission Power,Deep Technical & LLMOps,13.5,83.3,Computer Vision,Insulator Wear Classifier,None,None,Development,9.0,14500.0,21.5
+REC-0335,EMP-64240,Finance,AI for Leaders,10.0,76.1,Agentic AI Workflows,Invoice Matcher Agent,None,None,Development,13.3,118000.0,6.4
+REC-0336,EMP-75726,I&TF,AI Literacy,10.6,86.1,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Sponsored Capstone,Development,12.7,28700.0,9.9
+REC-0337,EMP-20492,Transmission Power,Deep Technical & LLMOps,16.8,98.0,Computer Vision,Insulator Wear Classifier,None,None,Ideation,6.3,12600.0,0.0
+REC-0338,EMP-16102,Billing,Deep Technical & LLMOps,28.1,94.6,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Sponsored Capstone,Development,16.9,30000.0,3.0
+REC-0339,EMP-60336,Power & Water Planning,AI for Leaders,11.5,69.8,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,25.8,111400.0,66.9
+REC-0340,EMP-95314,Finance,Deep Technical & LLMOps,23.4,94.6,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,23.7,210400.0,98.8
+REC-0341,EMP-36641,Billing,AI Literacy,46.4,96.7,Predictive Machine Learning,Billing Anomaly Detection,MBZUAI,Sponsored Capstone,Fully Deployed,20.0,763100.0,62.4
+REC-0342,EMP-44584,Billing,AI Literacy,31.9,84.8,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Joint R&D Lab,Ideation,5.5,6900.0,0.0
+REC-0343,EMP-42745,Billing,Deep Technical & LLMOps,14.4,93.3,Predictive Machine Learning,Billing Anomaly Detection,Heriot-Watt University,Sponsored Capstone,UAT & Testing,20.7,181900.0,53.9
+REC-0344,EMP-33093,Power & Water Planning,AI Literacy,10.0,80.8,Predictive Machine Learning,Smart Load Forecasting,None,None,Ideation,2.7,12300.0,0.0
+REC-0345,EMP-76105,Power & Water Planning,AI for Leaders,24.2,79.2,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,16.2,49700.0,41.6
+REC-0346,EMP-61885,Legal Affairs,Deep Technical & LLMOps,13.4,85.0,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,16.9,52700.0,27.6
+REC-0347,EMP-46631,I&TF,Deep Technical & LLMOps,10.0,86.4,Generative AI (LLMs),AI Developer Copilot,Heriot-Watt University,Reverse Hackathon,UAT & Testing,25.3,115100.0,52.9
+REC-0348,EMP-82991,Finance,AI Literacy,24.4,92.4,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Joint R&D Lab,Fully Deployed,29.2,93400.0,91.0
+REC-0349,EMP-14014,Transmission Power,AI Literacy,42.1,85.8,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,23.0,128800.0,66.1
+REC-0350,EMP-21093,Water & Civil,AI Literacy,14.1,80.6,Computer Vision,Reservoir Volumetric AI,MBZUAI,Sponsored Capstone,Fully Deployed,31.6,201600.0,44.0
+REC-0351,EMP-28070,Legal Affairs,Deep Technical & LLMOps,39.3,72.9,Generative AI (LLMs),Contract Compliance Parser,None,None,Fully Deployed,32.0,872000.0,69.4
+REC-0352,EMP-45777,Business Development & Execution,AI for Leaders,19.3,83.5,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Sponsored Capstone,Fully Deployed,25.8,121600.0,92.5
+REC-0353,EMP-66958,Power & Water Planning,AI Literacy,31.7,78.6,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Joint R&D Lab,Fully Deployed,35.5,48000.0,80.1
+REC-0354,EMP-92074,Finance,Deep Technical & LLMOps,46.0,81.4,Predictive Machine Learning,Supplier Risk Analysis,None,None,UAT & Testing,24.5,108600.0,65.6
+REC-0355,EMP-20729,Business Development & Execution,AI for Leaders,63.0,81.9,Generative AI (LLMs),AI Bid Evaluator,None,None,UAT & Testing,18.6,53600.0,59.5
+REC-0356,EMP-55017,Legal Affairs,AI Literacy,64.3,98.0,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Fully Deployed,23.0,538900.0,79.8
+REC-0357,EMP-76320,I&TF,AI for Leaders,49.9,99.2,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Sponsored Capstone,Ideation,4.5,6600.0,0.0
+REC-0358,EMP-37751,Distribution Power,Deep Technical & LLMOps,10.0,67.0,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Sponsored Capstone,Fully Deployed,33.8,120200.0,74.6
+REC-0359,EMP-88069,Water & Civil,AI Literacy,27.6,92.0,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Optimizing,19.1,243700.0,80.2
+REC-0360,EMP-64748,Legal Affairs,AI Literacy,70.8,90.7,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,34.9,175500.0,65.8
+REC-0361,EMP-15801,Billing,Deep Technical & LLMOps,15.8,65.1,Predictive Machine Learning,Billing Anomaly Detection,None,None,Ideation,4.3,30000.0,0.0
+REC-0362,EMP-29190,Legal Affairs,AI for Leaders,44.7,58.8,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Reverse Hackathon,Development,12.1,67400.0,26.9
+REC-0363,EMP-59689,Distribution Power,AI for Leaders,25.8,73.9,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,30.3,772000.0,53.6
+REC-0364,EMP-60993,Distribution Power,AI for Leaders,16.8,85.7,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Optimizing,27.5,212200.0,91.3
+REC-0365,EMP-39592,I&TF,AI Literacy,43.2,84.3,Generative AI (LLMs),AI Developer Copilot,None,None,Development,11.7,111600.0,5.5
+REC-0366,EMP-20647,Billing,AI Literacy,44.7,88.5,Generative AI (LLMs),Generative Bill Explanation,None,None,Fully Deployed,28.9,81400.0,50.6
+REC-0367,EMP-18716,Water & Civil,AI for Leaders,10.0,22.3,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Joint R&D Lab,Fully Deployed,29.9,575000.0,83.5
+REC-0368,EMP-98891,Water & Civil,AI Literacy,50.4,75.8,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Ideation,3.2,7500.0,0.0
+REC-0369,EMP-97545,Water & Civil,AI Literacy,32.8,93.2,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,35.2,388900.0,80.2
+REC-0370,EMP-99912,Transmission Power,Deep Technical & LLMOps,19.1,80.8,Computer Vision,Thermal Substations Inspection,None,None,Development,15.7,80600.0,16.7
+REC-0371,EMP-80316,Finance,Deep Technical & LLMOps,42.5,77.5,Agentic AI Workflows,Automated Audit Reconciliation,None,None,UAT & Testing,16.5,83300.0,51.1
+REC-0372,EMP-12368,Power & Water Planning,Deep Technical & LLMOps,17.4,79.1,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,19.5,261300.0,41.2
+REC-0373,EMP-87575,Legal Affairs,Deep Technical & LLMOps,27.5,65.6,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Fully Deployed,25.4,117300.0,67.8
+REC-0374,EMP-16655,Business Development & Execution,AI Literacy,40.9,94.8,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,Fully Deployed,34.3,354000.0,74.3
+REC-0375,EMP-80031,Legal Affairs,Deep Technical & LLMOps,31.4,94.9,Generative AI (LLMs),Regulatory Risk Analyzer,MBZUAI,Joint R&D Lab,UAT & Testing,20.9,106900.0,60.8
+REC-0376,EMP-86429,Legal Affairs,AI Literacy,11.5,88.3,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Joint R&D Lab,Fully Deployed,28.5,87600.0,81.9
+REC-0377,EMP-97922,Water & Civil,Deep Technical & LLMOps,10.0,66.4,Computer Vision,Structural Crack Inspection,RIT Dubai,Reverse Hackathon,Fully Deployed,31.5,153100.0,91.6
+REC-0378,EMP-65766,Finance,Deep Technical & LLMOps,10.0,71.6,Agentic AI Workflows,Invoice Matcher Agent,RIT Dubai,Reverse Hackathon,Fully Deployed,37.2,121700.0,90.9
+REC-0379,EMP-23403,Transmission Power,Deep Technical & LLMOps,19.3,91.8,Computer Vision,Insulator Wear Classifier,RIT Dubai,Joint R&D Lab,UAT & Testing,13.6,55400.0,26.3
+REC-0380,EMP-42097,Transmission Power,Deep Technical & LLMOps,10.0,88.9,Computer Vision,Overhead Line Monitoring,Heriot-Watt University,Reverse Hackathon,Ideation,2.4,11900.0,0.0
+REC-0381,EMP-88657,Water & Civil,Deep Technical & LLMOps,10.0,97.9,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Reverse Hackathon,UAT & Testing,22.3,109100.0,32.6
+REC-0382,EMP-20966,Business Development & Execution,AI Literacy,13.2,81.4,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,Fully Deployed,32.3,16600.0,90.6
+REC-0383,EMP-62921,Water & Civil,AI Literacy,35.3,83.4,Autonomous IoT & Sensors,Autonomous Leak Detection,MBZUAI,Reverse Hackathon,Development,11.8,59000.0,6.3
+REC-0384,EMP-59726,Water & Civil,Deep Technical & LLMOps,32.4,80.8,Computer Vision,Structural Crack Inspection,None,None,Optimizing,37.7,267900.0,91.7
+REC-0385,EMP-60300,I&TF,AI Literacy,10.0,73.4,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,36.2,378400.0,89.8
+REC-0386,EMP-32677,Distribution Power,Deep Technical & LLMOps,26.3,67.5,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Reverse Hackathon,Fully Deployed,42.3,44100.0,68.1
+REC-0387,EMP-65609,Distribution Power,Deep Technical & LLMOps,10.0,79.5,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,37.4,52500.0,88.8
+REC-0388,EMP-66661,Power & Water Planning,AI Literacy,40.1,92.5,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,22.1,93400.0,36.0
+REC-0389,EMP-41024,Business Development & Execution,Deep Technical & LLMOps,32.3,84.5,Generative AI (LLMs),Market Feasibility Generator,Heriot-Watt University,Sponsored Capstone,Fully Deployed,31.7,67000.0,73.5
+REC-0390,EMP-80313,Billing,Deep Technical & LLMOps,10.0,65.7,Predictive Machine Learning,Billing Anomaly Detection,None,None,UAT & Testing,19.4,30500.0,17.4
+REC-0391,EMP-63006,Water & Civil,Deep Technical & LLMOps,18.0,72.4,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,32.0,85100.0,88.6
+REC-0392,EMP-25338,Business Development & Execution,Deep Technical & LLMOps,10.0,90.0,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,33.3,88800.0,54.7
+REC-0393,EMP-78027,Legal Affairs,AI for Leaders,17.5,71.7,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Sponsored Capstone,Fully Deployed,24.8,52600.0,84.9
+REC-0394,EMP-90135,Business Development & Execution,Deep Technical & LLMOps,10.6,77.8,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,33.6,52300.0,90.1
+REC-0395,EMP-29508,Business Development & Execution,Deep Technical & LLMOps,37.3,89.1,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Joint R&D Lab,Ideation,4.5,9000.0,0.0
+REC-0396,EMP-13051,Distribution Power,AI Literacy,43.7,88.5,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,5.7,5000.0,0.0
+REC-0397,EMP-58747,Distribution Power,AI for Leaders,22.0,95.5,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,28.5,36700.0,83.4
+REC-0398,EMP-97142,Power & Water Planning,Deep Technical & LLMOps,69.2,98.0,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,10.0,41800.0,33.5
+REC-0399,EMP-97235,Finance,AI Literacy,12.9,76.3,Predictive Machine Learning,Supplier Risk Analysis,None,None,UAT & Testing,20.9,263400.0,59.9
+REC-0400,EMP-64021,Finance,Deep Technical & LLMOps,30.9,82.1,Predictive Machine Learning,Supplier Risk Analysis,Heriot-Watt University,Reverse Hackathon,UAT & Testing,21.9,142000.0,55.8
+REC-0401,EMP-76412,Billing,Deep Technical & LLMOps,35.9,82.7,Generative AI (LLMs),Generative Bill Explanation,None,None,Ideation,3.8,26300.0,0.0
+REC-0402,EMP-68335,Transmission Power,AI Literacy,18.4,85.4,Computer Vision,Insulator Wear Classifier,None,None,Ideation,7.6,5000.0,0.0
+REC-0403,EMP-66179,I&TF,AI for Leaders,11.2,77.4,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Sponsored Capstone,Fully Deployed,39.9,38400.0,98.6
+REC-0404,EMP-42093,Power & Water Planning,Deep Technical & LLMOps,47.4,92.5,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,22.5,119500.0,98.1
+REC-0405,EMP-79678,Water & Civil,AI Literacy,22.4,89.7,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Reverse Hackathon,UAT & Testing,16.9,154200.0,27.5
+REC-0406,EMP-90738,Transmission Power,AI Literacy,19.3,84.8,Computer Vision,Overhead Line Monitoring,MBZUAI,Joint R&D Lab,Optimizing,32.7,246700.0,92.7
+REC-0407,EMP-49734,Power & Water Planning,AI Literacy,14.9,82.4,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,13.1,13500.0,18.7
+REC-0408,EMP-82615,Business Development & Execution,AI Literacy,17.6,79.0,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Reverse Hackathon,Development,18.4,98000.0,6.7
+REC-0409,EMP-83523,I&TF,Deep Technical & LLMOps,32.2,75.2,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Fully Deployed,32.8,111000.0,76.1
+REC-0410,EMP-27019,I&TF,AI Literacy,17.9,82.3,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Reverse Hackathon,Fully Deployed,31.3,220700.0,91.9
+REC-0411,EMP-93613,Distribution Power,Deep Technical & LLMOps,60.9,78.9,Agentic AI Workflows,LV Power Restoration,RIT Dubai,Reverse Hackathon,UAT & Testing,15.4,48700.0,66.9
+REC-0412,EMP-96672,Business Development & Execution,AI Literacy,10.0,93.7,Generative AI (LLMs),Market Feasibility Generator,None,None,Optimizing,22.5,43100.0,95.8
+REC-0413,EMP-83847,Finance,AI Literacy,28.8,77.8,Agentic AI Workflows,Automated Audit Reconciliation,Heriot-Watt University,Sponsored Capstone,Optimizing,31.2,291300.0,84.7
+REC-0414,EMP-92750,Transmission Power,Deep Technical & LLMOps,10.0,94.0,Computer Vision,Thermal Substations Inspection,None,None,Ideation,9.1,14400.0,0.0
+REC-0415,EMP-89634,Distribution Power,Deep Technical & LLMOps,10.4,63.1,Agentic AI Workflows,LV Power Restoration,None,None,Development,11.4,14600.0,19.2
+REC-0416,EMP-38251,Billing,AI Literacy,22.4,81.3,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,27.4,69400.0,89.6
+REC-0417,EMP-35945,Business Development & Execution,AI for Leaders,61.6,89.7,Generative AI (LLMs),Market Feasibility Generator,None,None,Development,13.4,68400.0,20.5
+REC-0418,EMP-42217,Business Development & Execution,AI Literacy,18.3,70.2,Generative AI (LLMs),Market Feasibility Generator,None,None,Ideation,1.0,11600.0,0.0
+REC-0419,EMP-18308,Distribution Power,AI for Leaders,58.2,97.5,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,Fully Deployed,32.5,177000.0,64.7
+REC-0420,EMP-15949,Business Development & Execution,Deep Technical & LLMOps,51.5,83.1,Generative AI (LLMs),Market Feasibility Generator,None,None,UAT & Testing,23.3,51900.0,51.2
+REC-0421,EMP-61990,Business Development & Execution,AI Literacy,14.1,72.9,Generative AI (LLMs),Market Feasibility Generator,RIT Dubai,Joint R&D Lab,UAT & Testing,16.2,246600.0,31.2
+REC-0422,EMP-11150,Transmission Power,AI Literacy,47.4,85.1,Computer Vision,Overhead Line Monitoring,None,None,Development,16.1,36100.0,30.8
+REC-0423,EMP-99480,Business Development & Execution,AI Literacy,10.0,87.3,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,36.0,17800.0,90.4
+REC-0424,EMP-84740,Transmission Power,Deep Technical & LLMOps,10.0,86.6,Computer Vision,Insulator Wear Classifier,None,None,UAT & Testing,25.5,86000.0,45.0
+REC-0425,EMP-76617,Transmission Power,Deep Technical & LLMOps,46.9,82.3,Computer Vision,Insulator Wear Classifier,None,None,Development,7.9,64100.0,10.2
+REC-0426,EMP-26896,Distribution Power,AI Literacy,10.0,76.1,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,11.5,50100.0,23.2
+REC-0427,EMP-56175,Transmission Power,Deep Technical & LLMOps,16.7,95.3,Computer Vision,Overhead Line Monitoring,None,None,UAT & Testing,23.7,56100.0,32.0
+REC-0428,EMP-17805,Water & Civil,AI for Leaders,23.2,86.9,Computer Vision,Structural Crack Inspection,None,None,Optimizing,23.0,31000.0,80.1
+REC-0429,EMP-15237,Business Development & Execution,AI Literacy,40.2,83.3,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Reverse Hackathon,Optimizing,37.7,88000.0,96.8
+REC-0430,EMP-30056,Business Development & Execution,Deep Technical & LLMOps,10.0,77.5,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Joint R&D Lab,Development,11.5,25300.0,8.6
+REC-0431,EMP-55543,Power & Water Planning,Deep Technical & LLMOps,15.5,85.7,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,37.6,69900.0,71.0
+REC-0432,EMP-66556,Business Development & Execution,Deep Technical & LLMOps,10.0,66.2,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,33.3,193300.0,76.3
+REC-0433,EMP-13343,Water & Civil,AI Literacy,35.4,81.7,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Joint R&D Lab,Fully Deployed,40.5,90700.0,73.8
+REC-0434,EMP-23500,Finance,AI for Leaders,20.8,52.2,Predictive Machine Learning,Supplier Risk Analysis,MBZUAI,Sponsored Capstone,UAT & Testing,14.8,238500.0,28.6
+REC-0435,EMP-63222,Transmission Power,Deep Technical & LLMOps,18.6,72.3,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Reverse Hackathon,Ideation,5.7,8200.0,0.0
+REC-0436,EMP-39375,Water & Civil,AI Literacy,43.7,97.9,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,22.9,313300.0,72.0
+REC-0437,EMP-19662,Business Development & Execution,AI for Leaders,20.7,63.0,Generative AI (LLMs),Market Feasibility Generator,None,None,Ideation,5.8,11700.0,0.0
+REC-0438,EMP-26964,Business Development & Execution,AI Literacy,29.6,40.0,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Reverse Hackathon,Ideation,5.7,12200.0,0.0
+REC-0439,EMP-69638,I&TF,Deep Technical & LLMOps,11.8,52.6,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Joint R&D Lab,Fully Deployed,30.3,68600.0,74.2
+REC-0440,EMP-83666,Power & Water Planning,AI Literacy,10.0,56.8,Predictive Machine Learning,Smart Load Forecasting,Heriot-Watt University,Reverse Hackathon,Optimizing,27.3,50300.0,89.2
+REC-0441,EMP-95067,Billing,AI Literacy,16.9,79.4,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Sponsored Capstone,Development,11.0,37200.0,3.4
+REC-0442,EMP-77215,Distribution Power,Deep Technical & LLMOps,41.1,66.1,Predictive Machine Learning,Grid Recloser Optimizer,MBZUAI,Joint R&D Lab,Fully Deployed,32.6,456700.0,88.5
+REC-0443,EMP-79042,Legal Affairs,AI Literacy,33.5,68.3,Generative AI (LLMs),Contract Compliance Parser,None,None,Development,12.9,27400.0,2.2
+REC-0444,EMP-23284,Distribution Power,AI for Leaders,10.0,90.0,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,43.6,72300.0,85.0
+REC-0445,EMP-82789,Billing,AI Literacy,36.9,91.8,Predictive Machine Learning,Billing Anomaly Detection,MBZUAI,Joint R&D Lab,UAT & Testing,23.5,68800.0,27.1
+REC-0446,EMP-94664,Distribution Power,AI Literacy,10.5,72.0,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Sponsored Capstone,Development,10.2,162500.0,3.4
+REC-0447,EMP-71389,I&TF,AI Literacy,10.2,52.4,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Sponsored Capstone,Development,13.7,74100.0,47.8
+REC-0448,EMP-19435,Transmission Power,AI Literacy,29.9,87.2,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,23.5,208600.0,31.9
+REC-0449,EMP-64340,Power & Water Planning,Deep Technical & LLMOps,10.0,93.3,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Sponsored Capstone,Ideation,3.7,5000.0,0.0
+REC-0450,EMP-54078,Transmission Power,AI Literacy,33.0,95.5,Computer Vision,Thermal Substations Inspection,RIT Dubai,Sponsored Capstone,Ideation,6.4,5100.0,0.0
+REC-0451,EMP-88832,I&TF,Deep Technical & LLMOps,10.0,77.2,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Sponsored Capstone,Fully Deployed,23.1,63000.0,85.5
+REC-0452,EMP-61293,Legal Affairs,AI for Leaders,39.5,91.9,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,17.2,196000.0,82.0
+REC-0453,EMP-88781,Finance,AI for Leaders,11.2,67.4,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Fully Deployed,23.5,200800.0,70.4
+REC-0454,EMP-70403,Distribution Power,Deep Technical & LLMOps,19.4,71.3,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,4.6,23000.0,0.0
+REC-0455,EMP-39124,Legal Affairs,AI for Leaders,27.9,91.4,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Sponsored Capstone,Fully Deployed,29.2,26400.0,75.9
+REC-0456,EMP-53919,Power & Water Planning,Deep Technical & LLMOps,30.3,91.0,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,18.4,192000.0,14.4
+REC-0457,EMP-45247,Legal Affairs,AI Literacy,48.5,84.7,Generative AI (LLMs),Contract Compliance Parser,None,None,Ideation,6.6,16700.0,0.0
+REC-0458,EMP-72752,Transmission Power,AI for Leaders,44.1,72.3,Computer Vision,Thermal Substations Inspection,MBZUAI,Joint R&D Lab,UAT & Testing,20.4,37700.0,47.9
+REC-0459,EMP-66573,Power & Water Planning,Deep Technical & LLMOps,10.0,87.7,Predictive Machine Learning,Smart Load Forecasting,RIT Dubai,Reverse Hackathon,Ideation,6.6,8400.0,0.0
+REC-0460,EMP-69101,Billing,Deep Technical & LLMOps,67.7,95.6,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,41.8,58000.0,87.7
+REC-0461,EMP-36646,Transmission Power,Deep Technical & LLMOps,52.9,94.5,Computer Vision,Overhead Line Monitoring,MBZUAI,Reverse Hackathon,Fully Deployed,44.6,109600.0,76.7
+REC-0462,EMP-33049,Power & Water Planning,AI for Leaders,31.0,55.1,Predictive Machine Learning,Digital Twin Simulation,Heriot-Watt University,Joint R&D Lab,UAT & Testing,19.4,113100.0,28.0
+REC-0463,EMP-89605,Distribution Power,Deep Technical & LLMOps,14.9,98.7,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,6.1,30400.0,0.0
+REC-0464,EMP-78385,Finance,AI for Leaders,28.3,92.0,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,11.5,18600.0,31.2
+REC-0465,EMP-50158,Distribution Power,AI for Leaders,20.8,87.9,Predictive Machine Learning,Grid Recloser Optimizer,Heriot-Watt University,Reverse Hackathon,UAT & Testing,24.1,54300.0,39.7
+REC-0466,EMP-75417,Power & Water Planning,AI Literacy,10.0,91.4,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,36.9,49000.0,73.4
+REC-0467,EMP-33289,Business Development & Execution,AI for Leaders,32.4,93.2,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,10.0,72900.0,24.5
+REC-0468,EMP-19823,Legal Affairs,AI Literacy,41.2,95.1,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Reverse Hackathon,Ideation,4.0,5000.0,0.0
+REC-0469,EMP-70160,Legal Affairs,AI Literacy,30.4,72.2,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Development,16.2,45500.0,1.2
+REC-0470,EMP-51975,Transmission Power,Deep Technical & LLMOps,50.4,98.0,Computer Vision,Overhead Line Monitoring,MBZUAI,Joint R&D Lab,UAT & Testing,17.8,29600.0,45.8
+REC-0471,EMP-19540,Water & Civil,AI Literacy,29.7,89.5,Computer Vision,Structural Crack Inspection,MBZUAI,Reverse Hackathon,Development,11.7,41000.0,20.0
+REC-0472,EMP-26364,Transmission Power,AI Literacy,32.7,81.2,Computer Vision,Overhead Line Monitoring,None,None,UAT & Testing,22.7,199100.0,37.8
+REC-0473,EMP-14611,Power & Water Planning,AI Literacy,37.3,82.7,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Reverse Hackathon,Development,11.5,26200.0,8.8
+REC-0474,EMP-37663,Power & Water Planning,Deep Technical & LLMOps,10.0,93.9,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Joint R&D Lab,UAT & Testing,26.1,94200.0,23.7
+REC-0475,EMP-61991,Billing,AI for Leaders,10.4,72.3,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Reverse Hackathon,Development,15.1,19300.0,15.2
+REC-0476,EMP-67679,I&TF,AI for Leaders,13.7,86.3,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,26.7,108300.0,65.7
+REC-0477,EMP-40977,Transmission Power,Deep Technical & LLMOps,24.7,88.6,Computer Vision,Thermal Substations Inspection,None,None,Ideation,3.8,5000.0,0.0
+REC-0478,EMP-59115,Transmission Power,Deep Technical & LLMOps,10.0,74.6,Computer Vision,Overhead Line Monitoring,RIT Dubai,Sponsored Capstone,Development,13.8,69600.0,0.7
+REC-0479,EMP-98223,I&TF,AI Literacy,18.0,93.8,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,19.8,56600.0,43.9
+REC-0480,EMP-70890,Billing,Deep Technical & LLMOps,37.7,98.3,Predictive Machine Learning,Billing Anomaly Detection,RIT Dubai,Joint R&D Lab,Development,6.2,33400.0,28.1
+REC-0481,EMP-76387,Legal Affairs,Deep Technical & LLMOps,39.6,83.8,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Development,9.1,41700.0,50.6
+REC-0482,EMP-28071,I&TF,Deep Technical & LLMOps,10.0,90.9,Generative AI (LLMs),AI Developer Copilot,Heriot-Watt University,Reverse Hackathon,Fully Deployed,33.4,24600.0,84.8
+REC-0483,EMP-69275,I&TF,AI Literacy,24.5,87.6,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,37.3,68100.0,56.5
+REC-0484,EMP-82369,Water & Civil,Deep Technical & LLMOps,22.5,85.1,Computer Vision,Reservoir Volumetric AI,None,None,Development,14.7,44000.0,55.6
+REC-0485,EMP-21938,Business Development & Execution,AI for Leaders,31.6,99.8,Generative AI (LLMs),AI Bid Evaluator,None,None,Fully Deployed,43.8,104200.0,78.5
+REC-0486,EMP-45195,Transmission Power,AI Literacy,17.4,92.1,Computer Vision,Insulator Wear Classifier,MBZUAI,Reverse Hackathon,UAT & Testing,17.2,450800.0,56.0
+REC-0487,EMP-14000,Water & Civil,AI for Leaders,30.6,67.7,Computer Vision,Structural Crack Inspection,None,None,Development,10.1,108100.0,8.9
+REC-0488,EMP-80588,Power & Water Planning,AI Literacy,11.1,94.4,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Sponsored Capstone,Optimizing,31.8,165600.0,79.8
+REC-0489,EMP-48304,Transmission Power,AI Literacy,10.0,77.5,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,21.9,52300.0,89.0
+REC-0490,EMP-79449,Distribution Power,Deep Technical & LLMOps,40.1,88.3,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Joint R&D Lab,Optimizing,32.0,99700.0,93.9
+REC-0491,EMP-92986,Billing,AI Literacy,35.2,81.4,Generative AI (LLMs),Generative Bill Explanation,Heriot-Watt University,Joint R&D Lab,Development,11.4,66900.0,23.0
+REC-0492,EMP-99643,Legal Affairs,AI for Leaders,39.7,77.9,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Reverse Hackathon,Ideation,6.6,10500.0,0.0
+REC-0493,EMP-30764,Water & Civil,Deep Technical & LLMOps,21.5,79.4,Computer Vision,Reservoir Volumetric AI,MBZUAI,Sponsored Capstone,UAT & Testing,23.8,219200.0,59.4
+REC-0494,EMP-96027,I&TF,AI Literacy,10.5,80.8,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Fully Deployed,34.1,125200.0,62.4
+REC-0495,EMP-48494,Legal Affairs,Deep Technical & LLMOps,10.0,95.9,Generative AI (LLMs),Contract Compliance Parser,None,None,Development,12.0,43300.0,9.6
+REC-0496,EMP-13373,Finance,AI Literacy,22.1,92.3,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,34.2,434400.0,66.7
+REC-0497,EMP-22161,Distribution Power,AI Literacy,20.7,60.8,Agentic AI Workflows,SCADA Fault Routing,None,None,UAT & Testing,16.8,32800.0,43.0
+REC-0498,EMP-37350,Finance,AI for Leaders,26.2,80.5,Predictive Machine Learning,Supplier Risk Analysis,None,None,UAT & Testing,19.7,316100.0,90.6
+REC-0499,EMP-35351,Billing,AI Literacy,10.0,83.5,Predictive Machine Learning,Revenue Risk Profiler,RIT Dubai,Sponsored Capstone,Fully Deployed,32.1,219300.0,70.0
+REC-0500,EMP-98668,Legal Affairs,AI Literacy,10.0,60.7,Generative AI (LLMs),Regulatory Risk Analyzer,MBZUAI,Sponsored Capstone,Fully Deployed,31.5,1576500.0,97.1
+REC-0501,EMP-25305,Finance,Deep Technical & LLMOps,11.9,73.6,Predictive Machine Learning,Supplier Risk Analysis,MBZUAI,Sponsored Capstone,Ideation,4.7,5600.0,0.0
+REC-0502,EMP-85353,Legal Affairs,Deep Technical & LLMOps,28.0,98.8,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Sponsored Capstone,Optimizing,28.3,545200.0,83.7
+REC-0503,EMP-86797,Water & Civil,AI Literacy,41.6,97.8,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Sponsored Capstone,Development,8.9,43900.0,13.4
+REC-0504,EMP-75953,Water & Civil,Deep Technical & LLMOps,11.2,75.8,Computer Vision,Reservoir Volumetric AI,MBZUAI,Joint R&D Lab,Ideation,4.6,8500.0,0.0
+REC-0505,EMP-67458,Power & Water Planning,Deep Technical & LLMOps,10.0,81.2,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Reverse Hackathon,Fully Deployed,35.6,151200.0,82.0
+REC-0506,EMP-30358,Distribution Power,Deep Technical & LLMOps,13.9,79.3,Agentic AI Workflows,LV Power Restoration,MBZUAI,Reverse Hackathon,Optimizing,21.6,163700.0,98.1
+REC-0507,EMP-13267,Finance,AI for Leaders,60.4,90.5,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,29.0,63500.0,78.3
+REC-0508,EMP-92745,Business Development & Execution,AI Literacy,11.3,73.7,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,Fully Deployed,44.4,106600.0,88.1
+REC-0509,EMP-99588,I&TF,AI Literacy,27.5,81.3,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,30.8,151400.0,82.7
+REC-0510,EMP-48513,Legal Affairs,Deep Technical & LLMOps,13.1,76.1,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Optimizing,32.9,105400.0,91.4
+REC-0511,EMP-36092,Water & Civil,Deep Technical & LLMOps,14.2,60.7,Computer Vision,Structural Crack Inspection,None,None,Ideation,8.7,15200.0,0.0
+REC-0512,EMP-21338,Business Development & Execution,AI Literacy,40.6,92.0,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Joint R&D Lab,Fully Deployed,33.9,93500.0,90.7
+REC-0513,EMP-10412,Transmission Power,AI for Leaders,57.4,82.2,Computer Vision,Insulator Wear Classifier,RIT Dubai,Joint R&D Lab,Fully Deployed,34.1,170900.0,81.9
+REC-0514,EMP-17543,Transmission Power,Deep Technical & LLMOps,52.5,74.6,Computer Vision,Overhead Line Monitoring,MBZUAI,Sponsored Capstone,Ideation,3.2,12900.0,0.0
+REC-0515,EMP-43496,Business Development & Execution,Deep Technical & LLMOps,45.8,94.0,Generative AI (LLMs),AI Bid Evaluator,Heriot-Watt University,Reverse Hackathon,UAT & Testing,21.3,113300.0,52.3
+REC-0516,EMP-70692,Transmission Power,Deep Technical & LLMOps,15.0,85.7,Computer Vision,Overhead Line Monitoring,RIT Dubai,Sponsored Capstone,UAT & Testing,19.9,26800.0,60.9
+REC-0517,EMP-99084,Distribution Power,Deep Technical & LLMOps,12.4,57.7,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,37.5,284900.0,86.9
+REC-0518,EMP-54425,Water & Civil,AI Literacy,10.0,88.4,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Ideation,7.6,5000.0,0.0
+REC-0519,EMP-48756,Power & Water Planning,Deep Technical & LLMOps,33.4,93.3,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,32.2,102100.0,74.0
+REC-0520,EMP-28888,Legal Affairs,Deep Technical & LLMOps,10.0,40.8,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Joint R&D Lab,Ideation,5.8,5900.0,0.0
+REC-0521,EMP-45735,Distribution Power,AI Literacy,47.5,84.7,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,UAT & Testing,12.4,83600.0,80.5
+REC-0522,EMP-57295,Business Development & Execution,AI for Leaders,10.0,67.2,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,18.6,108400.0,88.3
+REC-0523,EMP-93042,I&TF,Deep Technical & LLMOps,10.0,82.7,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Reverse Hackathon,UAT & Testing,24.4,133000.0,52.0
+REC-0524,EMP-95999,Power & Water Planning,AI Literacy,46.0,92.6,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,4.5,40900.0,21.3
+REC-0525,EMP-27955,Water & Civil,Deep Technical & LLMOps,52.0,91.1,Computer Vision,Reservoir Volumetric AI,None,None,Ideation,5.7,7200.0,0.0
+REC-0526,EMP-47841,Transmission Power,Deep Technical & LLMOps,20.7,71.9,Computer Vision,Overhead Line Monitoring,Heriot-Watt University,Reverse Hackathon,Fully Deployed,31.0,28100.0,93.6
+REC-0527,EMP-80640,I&TF,Deep Technical & LLMOps,29.2,93.0,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Joint R&D Lab,Optimizing,39.4,300400.0,73.7
+REC-0528,EMP-75510,Water & Civil,AI Literacy,52.3,91.9,Computer Vision,Reservoir Volumetric AI,None,None,Optimizing,31.8,224000.0,96.8
+REC-0529,EMP-44911,I&TF,AI Literacy,25.6,72.6,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Sponsored Capstone,Fully Deployed,42.8,248300.0,81.3
+REC-0530,EMP-69031,Power & Water Planning,Deep Technical & LLMOps,22.5,94.2,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Sponsored Capstone,Ideation,4.6,8500.0,0.0
+REC-0531,EMP-98726,Distribution Power,AI Literacy,10.0,91.7,Predictive Machine Learning,Grid Recloser Optimizer,MBZUAI,Joint R&D Lab,Development,15.4,52500.0,20.6
+REC-0532,EMP-17357,Billing,Deep Technical & LLMOps,17.0,46.1,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Sponsored Capstone,Development,7.5,23400.0,11.6
+REC-0533,EMP-42479,Business Development & Execution,Deep Technical & LLMOps,10.0,93.6,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,5.1,21800.0,41.8
+REC-0534,EMP-71476,Billing,AI Literacy,49.0,87.4,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,11.9,31500.0,48.2
+REC-0535,EMP-54811,I&TF,AI for Leaders,10.0,37.3,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Joint R&D Lab,Development,7.8,82500.0,14.4
+REC-0536,EMP-46208,Power & Water Planning,Deep Technical & LLMOps,63.9,88.9,Predictive Machine Learning,Grid Expansion Planner,None,None,Fully Deployed,31.6,95100.0,83.5
+REC-0537,EMP-30150,Power & Water Planning,AI for Leaders,23.5,85.8,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,10.8,37800.0,37.7
+REC-0538,EMP-81180,Finance,Deep Technical & LLMOps,25.6,90.5,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,35.6,143800.0,74.9
+REC-0539,EMP-53286,I&TF,Deep Technical & LLMOps,53.5,96.5,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Optimizing,25.6,151100.0,70.6
+REC-0540,EMP-78450,Distribution Power,Deep Technical & LLMOps,13.8,70.5,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,Fully Deployed,34.5,266700.0,77.6
+REC-0541,EMP-31352,Billing,Deep Technical & LLMOps,19.6,97.3,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Reverse Hackathon,Fully Deployed,37.2,65100.0,81.6
+REC-0542,EMP-65069,Transmission Power,AI for Leaders,41.8,97.4,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,30.8,128300.0,59.3
+REC-0543,EMP-24397,Business Development & Execution,Deep Technical & LLMOps,42.8,90.9,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,13.4,57700.0,39.0
+REC-0544,EMP-51555,Transmission Power,Deep Technical & LLMOps,23.3,94.2,Computer Vision,Overhead Line Monitoring,None,None,Ideation,3.0,5000.0,0.0
+REC-0545,EMP-56959,Power & Water Planning,Deep Technical & LLMOps,23.2,55.7,Predictive Machine Learning,Grid Expansion Planner,None,None,Ideation,4.2,12200.0,0.0
+REC-0546,EMP-10728,I&TF,Deep Technical & LLMOps,55.3,95.3,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Development,8.0,115500.0,4.5
+REC-0547,EMP-60517,Power & Water Planning,AI Literacy,16.6,82.9,Predictive Machine Learning,Smart Load Forecasting,Heriot-Watt University,Joint R&D Lab,Fully Deployed,46.0,89500.0,96.5
+REC-0548,EMP-76234,Billing,Deep Technical & LLMOps,18.7,77.4,Predictive Machine Learning,Revenue Risk Profiler,RIT Dubai,Sponsored Capstone,Optimizing,39.4,62200.0,86.4
+REC-0549,EMP-49954,Legal Affairs,AI Literacy,32.1,85.7,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Sponsored Capstone,Optimizing,42.0,215200.0,75.8
+REC-0550,EMP-57280,Water & Civil,AI for Leaders,19.8,48.8,Computer Vision,Structural Crack Inspection,None,None,Ideation,7.4,11400.0,0.0
+REC-0551,EMP-89459,I&TF,AI Literacy,17.3,76.2,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Optimizing,28.0,500500.0,81.0
+REC-0552,EMP-26779,Distribution Power,Deep Technical & LLMOps,32.8,97.6,Agentic AI Workflows,LV Power Restoration,None,None,Development,7.4,56000.0,6.4
+REC-0553,EMP-73932,Transmission Power,Deep Technical & LLMOps,38.3,60.7,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,29.5,55700.0,81.5
+REC-0554,EMP-82936,Distribution Power,Deep Technical & LLMOps,10.2,91.7,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,13.4,17900.0,7.0
+REC-0555,EMP-34466,Power & Water Planning,Deep Technical & LLMOps,23.5,94.4,Predictive Machine Learning,Grid Expansion Planner,None,None,Ideation,4.4,19600.0,0.0
+REC-0556,EMP-46939,Billing,Deep Technical & LLMOps,46.3,80.6,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,5.3,52500.0,32.7
+REC-0557,EMP-79896,I&TF,Deep Technical & LLMOps,32.7,90.7,Generative AI (LLMs),Agentic IT Helpdesk,MBZUAI,Sponsored Capstone,Fully Deployed,36.5,113100.0,92.0
+REC-0558,EMP-45270,Power & Water Planning,AI for Leaders,25.0,79.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Development,7.2,45300.0,2.7
+REC-0559,EMP-69163,Finance,AI for Leaders,30.3,73.7,Predictive Machine Learning,Supplier Risk Analysis,None,None,Development,10.7,56200.0,11.5
+REC-0560,EMP-92637,Power & Water Planning,AI Literacy,10.0,80.7,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Joint R&D Lab,Optimizing,42.5,199500.0,45.1
+REC-0561,EMP-61934,Power & Water Planning,Deep Technical & LLMOps,19.0,71.4,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Reverse Hackathon,Optimizing,32.3,44400.0,46.1
+REC-0562,EMP-74895,Finance,Deep Technical & LLMOps,10.6,77.7,Predictive Machine Learning,Supplier Risk Analysis,None,None,Ideation,7.2,26100.0,0.0
+REC-0563,EMP-42307,Water & Civil,AI for Leaders,25.7,92.0,Computer Vision,Reservoir Volumetric AI,MBZUAI,Sponsored Capstone,Fully Deployed,34.1,330800.0,65.6
+REC-0564,EMP-64098,Distribution Power,AI Literacy,51.9,88.1,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,9.0,168000.0,24.3
+REC-0565,EMP-70921,Transmission Power,Deep Technical & LLMOps,10.0,76.6,Computer Vision,Insulator Wear Classifier,RIT Dubai,Joint R&D Lab,Development,14.2,141200.0,11.1
+REC-0566,EMP-15486,Business Development & Execution,AI Literacy,21.5,74.8,Generative AI (LLMs),AI Procurement Sandbox,None,None,UAT & Testing,19.7,246400.0,47.4
+REC-0567,EMP-18335,Water & Civil,Deep Technical & LLMOps,12.4,66.0,Computer Vision,Reservoir Volumetric AI,None,None,UAT & Testing,14.1,62800.0,38.8
+REC-0568,EMP-96900,Water & Civil,Deep Technical & LLMOps,10.0,92.8,Autonomous IoT & Sensors,Autonomous Leak Detection,Heriot-Watt University,Sponsored Capstone,UAT & Testing,13.4,100500.0,15.8
+REC-0569,EMP-99112,Power & Water Planning,AI for Leaders,29.1,91.5,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Reverse Hackathon,UAT & Testing,21.5,200900.0,35.3
+REC-0570,EMP-21130,Distribution Power,AI Literacy,10.0,89.0,Agentic AI Workflows,SCADA Fault Routing,None,None,UAT & Testing,28.6,18700.0,22.3
+REC-0571,EMP-97508,Transmission Power,Deep Technical & LLMOps,30.7,77.9,Computer Vision,Insulator Wear Classifier,None,None,Fully Deployed,25.5,99400.0,57.0
+REC-0572,EMP-70566,Power & Water Planning,Deep Technical & LLMOps,32.4,84.1,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,26.3,30300.0,84.8
+REC-0573,EMP-76703,Legal Affairs,AI for Leaders,13.8,97.8,Generative AI (LLMs),Contract Compliance Parser,Heriot-Watt University,Reverse Hackathon,UAT & Testing,21.6,98800.0,44.9
+REC-0574,EMP-37192,Power & Water Planning,Deep Technical & LLMOps,23.8,87.8,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Reverse Hackathon,Ideation,2.4,27200.0,0.0
+REC-0575,EMP-11062,I&TF,AI Literacy,67.4,93.9,Agentic AI Workflows,Cognitive Cyber Defense,Heriot-Watt University,Joint R&D Lab,Fully Deployed,46.1,120300.0,89.9
+REC-0576,EMP-94076,Transmission Power,Deep Technical & LLMOps,10.0,91.1,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,26.8,75100.0,75.1
+REC-0577,EMP-99780,Business Development & Execution,Deep Technical & LLMOps,18.1,87.6,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Sponsored Capstone,Fully Deployed,29.0,148600.0,70.9
+REC-0578,EMP-31545,Transmission Power,Deep Technical & LLMOps,57.3,93.2,Computer Vision,Overhead Line Monitoring,RIT Dubai,Joint R&D Lab,UAT & Testing,16.8,109800.0,42.3
+REC-0579,EMP-31689,Business Development & Execution,AI Literacy,30.8,94.2,Generative AI (LLMs),Market Feasibility Generator,MBZUAI,Sponsored Capstone,Development,14.8,58100.0,73.2
+REC-0580,EMP-21174,Finance,Deep Technical & LLMOps,35.0,93.5,Agentic AI Workflows,Invoice Matcher Agent,Heriot-Watt University,Joint R&D Lab,Fully Deployed,45.0,44800.0,82.1
+REC-0581,EMP-98461,Business Development & Execution,AI for Leaders,50.9,96.4,Generative AI (LLMs),Market Feasibility Generator,None,None,Development,9.9,48000.0,20.8
+REC-0582,EMP-19348,Power & Water Planning,AI for Leaders,42.7,90.1,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Sponsored Capstone,Optimizing,37.2,171600.0,98.2
+REC-0583,EMP-33714,Legal Affairs,AI Literacy,29.4,67.6,Generative AI (LLMs),Contract Compliance Parser,None,None,Fully Deployed,24.2,253000.0,77.8
+REC-0584,EMP-48102,I&TF,Deep Technical & LLMOps,35.4,92.0,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Development,14.9,37200.0,28.1
+REC-0585,EMP-84460,Business Development & Execution,AI Literacy,10.2,84.0,Generative AI (LLMs),Market Feasibility Generator,RIT Dubai,Joint R&D Lab,UAT & Testing,27.0,383200.0,52.2
+REC-0586,EMP-99930,I&TF,AI Literacy,19.0,48.0,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,40.7,126500.0,93.7
+REC-0587,EMP-16801,Distribution Power,AI Literacy,51.1,85.3,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,12.4,26900.0,15.6
+REC-0588,EMP-82267,I&TF,Deep Technical & LLMOps,52.1,74.0,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,15.9,35400.0,22.7
+REC-0589,EMP-58136,Transmission Power,Deep Technical & LLMOps,25.7,81.9,Computer Vision,Overhead Line Monitoring,RIT Dubai,Sponsored Capstone,Fully Deployed,32.0,78500.0,90.3
+REC-0590,EMP-33625,Power & Water Planning,Deep Technical & LLMOps,20.7,78.7,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Joint R&D Lab,Fully Deployed,30.1,62500.0,74.8
+REC-0591,EMP-92873,Power & Water Planning,AI Literacy,10.3,66.7,Predictive Machine Learning,Digital Twin Simulation,MBZUAI,Reverse Hackathon,Development,10.7,34900.0,29.0
+REC-0592,EMP-82592,Billing,Deep Technical & LLMOps,34.8,68.9,Predictive Machine Learning,Billing Anomaly Detection,None,None,UAT & Testing,20.8,304400.0,59.6
+REC-0593,EMP-87052,Water & Civil,Deep Technical & LLMOps,10.0,94.3,Computer Vision,Reservoir Volumetric AI,None,None,Optimizing,31.6,46100.0,91.3
+REC-0594,EMP-54261,Business Development & Execution,Deep Technical & LLMOps,11.2,61.7,Generative AI (LLMs),AI Bid Evaluator,None,None,Optimizing,36.2,48700.0,63.8
+REC-0595,EMP-11542,Water & Civil,Deep Technical & LLMOps,29.1,78.4,Autonomous IoT & Sensors,Autonomous Leak Detection,Heriot-Watt University,Joint R&D Lab,Fully Deployed,36.3,98200.0,70.5
+REC-0596,EMP-31677,Legal Affairs,AI Literacy,27.1,91.1,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Optimizing,31.6,49800.0,91.0
+REC-0597,EMP-56732,Finance,Deep Technical & LLMOps,21.2,93.4,Predictive Machine Learning,Supplier Risk Analysis,None,None,UAT & Testing,21.7,36000.0,50.9
+REC-0598,EMP-60343,Water & Civil,AI Literacy,19.5,91.0,Computer Vision,Structural Crack Inspection,None,None,UAT & Testing,25.3,103600.0,39.2
+REC-0599,EMP-49081,Business Development & Execution,AI for Leaders,10.0,97.8,Generative AI (LLMs),AI Procurement Sandbox,None,None,UAT & Testing,17.9,75700.0,33.1
+REC-0600,EMP-72856,Distribution Power,AI Literacy,52.3,74.9,Predictive Machine Learning,Grid Recloser Optimizer,Heriot-Watt University,Reverse Hackathon,Ideation,5.0,14000.0,0.0
+REC-0601,EMP-98858,I&TF,AI Literacy,11.4,89.4,Agentic AI Workflows,Cognitive Cyber Defense,Heriot-Watt University,Sponsored Capstone,UAT & Testing,15.9,126700.0,45.1
+REC-0602,EMP-29065,Distribution Power,AI for Leaders,28.1,54.9,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Reverse Hackathon,UAT & Testing,21.9,231200.0,49.2
+REC-0603,EMP-93460,Transmission Power,Deep Technical & LLMOps,55.9,88.7,Computer Vision,Overhead Line Monitoring,RIT Dubai,Reverse Hackathon,Fully Deployed,33.2,160400.0,89.5
+REC-0604,EMP-98092,Water & Civil,AI for Leaders,38.7,94.5,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Sponsored Capstone,Fully Deployed,34.8,310600.0,81.5
+REC-0605,EMP-64693,Legal Affairs,Deep Technical & LLMOps,59.1,84.2,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Joint R&D Lab,Fully Deployed,26.1,129100.0,68.1
+REC-0606,EMP-36962,Legal Affairs,AI for Leaders,10.8,89.5,Generative AI (LLMs),Contract Compliance Parser,Heriot-Watt University,Joint R&D Lab,Development,14.3,54000.0,4.4
+REC-0607,EMP-38295,Distribution Power,AI Literacy,16.9,97.3,Agentic AI Workflows,LV Power Restoration,MBZUAI,Reverse Hackathon,Development,12.3,53400.0,11.5
+REC-0608,EMP-23807,Water & Civil,Deep Technical & LLMOps,44.8,74.0,Computer Vision,Structural Crack Inspection,RIT Dubai,Joint R&D Lab,Development,15.1,49600.0,31.2
+REC-0609,EMP-52348,Transmission Power,AI Literacy,20.0,84.8,Computer Vision,Insulator Wear Classifier,None,None,Fully Deployed,29.4,139600.0,71.1
+REC-0610,EMP-36432,Power & Water Planning,AI for Leaders,10.0,76.5,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Reverse Hackathon,Development,14.0,169500.0,6.9
+REC-0611,EMP-93285,Power & Water Planning,Deep Technical & LLMOps,61.2,92.1,Predictive Machine Learning,Digital Twin Simulation,None,None,UAT & Testing,21.8,138000.0,31.1
+REC-0612,EMP-67854,Billing,AI for Leaders,15.7,98.1,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,16.6,27600.0,15.1
+REC-0613,EMP-50262,I&TF,AI Literacy,27.2,72.7,Generative AI (LLMs),AI Developer Copilot,None,None,Fully Deployed,31.3,772200.0,95.3
+REC-0614,EMP-47080,Business Development & Execution,AI Literacy,22.9,93.4,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,28.7,87600.0,59.8
+REC-0615,EMP-11324,Transmission Power,Deep Technical & LLMOps,25.6,54.0,Computer Vision,Thermal Substations Inspection,MBZUAI,Joint R&D Lab,Fully Deployed,29.0,118000.0,81.1
+REC-0616,EMP-45909,Transmission Power,Deep Technical & LLMOps,13.0,52.6,Computer Vision,Thermal Substations Inspection,None,None,Development,8.7,20300.0,50.4
+REC-0617,EMP-99339,I&TF,Deep Technical & LLMOps,12.1,95.0,Generative AI (LLMs),Agentic IT Helpdesk,None,None,UAT & Testing,18.0,140200.0,57.2
+REC-0618,EMP-29870,Finance,Deep Technical & LLMOps,14.0,51.9,Predictive Machine Learning,Supplier Risk Analysis,None,None,Ideation,0.3,38200.0,0.0
+REC-0619,EMP-44578,Finance,AI Literacy,57.5,93.8,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Joint R&D Lab,Development,16.1,12000.0,25.0
+REC-0620,EMP-82124,Legal Affairs,AI for Leaders,30.6,92.6,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Joint R&D Lab,Development,17.8,31600.0,14.7
+REC-0621,EMP-36790,Power & Water Planning,Deep Technical & LLMOps,21.2,67.5,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Reverse Hackathon,Ideation,4.7,24100.0,0.0
+REC-0622,EMP-35289,Business Development & Execution,AI Literacy,16.6,94.2,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,13.3,16900.0,12.5
+REC-0623,EMP-65129,Distribution Power,AI Literacy,44.7,90.2,Agentic AI Workflows,LV Power Restoration,None,None,Development,12.5,62500.0,29.1
+REC-0624,EMP-25485,I&TF,AI Literacy,17.4,92.8,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Sponsored Capstone,Ideation,2.4,5000.0,0.0
+REC-0625,EMP-54482,Transmission Power,AI for Leaders,17.7,67.0,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,38.2,164200.0,57.9
+REC-0626,EMP-96188,I&TF,Deep Technical & LLMOps,13.8,62.8,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Optimizing,39.1,157600.0,85.4
+REC-0627,EMP-14748,Business Development & Execution,AI Literacy,10.0,84.2,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Joint R&D Lab,Fully Deployed,25.8,1683500.0,83.6
+REC-0628,EMP-96769,Legal Affairs,AI for Leaders,24.2,93.0,Generative AI (LLMs),Contract Compliance Parser,None,None,Ideation,5.7,17900.0,0.0
+REC-0629,EMP-19435,I&TF,AI Literacy,43.4,85.1,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,18.9,13900.0,15.0
+REC-0630,EMP-13709,Billing,Deep Technical & LLMOps,10.0,96.2,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Joint R&D Lab,Fully Deployed,39.1,111600.0,72.9
+REC-0631,EMP-40355,Distribution Power,AI Literacy,18.2,91.4,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,4.8,19100.0,0.0
+REC-0632,EMP-65771,Legal Affairs,AI for Leaders,11.0,94.9,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Joint R&D Lab,Fully Deployed,31.7,85100.0,74.8
+REC-0633,EMP-67799,Water & Civil,Deep Technical & LLMOps,16.2,98.8,Computer Vision,Reservoir Volumetric AI,None,None,UAT & Testing,27.3,54800.0,27.1
+REC-0634,EMP-23116,Distribution Power,Deep Technical & LLMOps,12.9,94.4,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Optimizing,24.3,106900.0,83.5
+REC-0635,EMP-35470,Distribution Power,AI for Leaders,18.8,87.1,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,33.5,183500.0,86.9
+REC-0636,EMP-52344,Transmission Power,AI for Leaders,51.0,73.8,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Reverse Hackathon,Fully Deployed,32.5,43400.0,70.7
+REC-0637,EMP-52918,Water & Civil,AI for Leaders,12.2,98.3,Computer Vision,Structural Crack Inspection,RIT Dubai,Sponsored Capstone,Fully Deployed,28.4,75600.0,78.4
+REC-0638,EMP-62224,Transmission Power,AI Literacy,39.9,75.9,Computer Vision,Overhead Line Monitoring,RIT Dubai,Reverse Hackathon,Development,18.1,90200.0,14.7
+REC-0639,EMP-49298,Legal Affairs,AI Literacy,28.1,77.6,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Ideation,5.7,6700.0,0.0
+REC-0640,EMP-90219,Water & Civil,AI for Leaders,55.5,81.1,Computer Vision,Reservoir Volumetric AI,MBZUAI,Joint R&D Lab,UAT & Testing,22.7,51000.0,64.3
+REC-0641,EMP-71629,Billing,AI Literacy,10.0,75.6,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,14.4,13100.0,10.9
+REC-0642,EMP-76040,Legal Affairs,AI Literacy,10.0,67.5,Generative AI (LLMs),Regulatory Risk Analyzer,MBZUAI,Reverse Hackathon,Ideation,4.4,16600.0,0.0
+REC-0643,EMP-38016,Water & Civil,AI for Leaders,16.8,83.3,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Joint R&D Lab,Development,15.7,55500.0,49.5
+REC-0644,EMP-33960,Business Development & Execution,Deep Technical & LLMOps,24.2,91.0,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Joint R&D Lab,Fully Deployed,38.2,257900.0,94.2
+REC-0645,EMP-43591,I&TF,Deep Technical & LLMOps,37.1,86.9,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Ideation,4.8,9000.0,0.0
+REC-0646,EMP-92848,Billing,AI Literacy,10.0,66.4,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,14.8,50800.0,48.0
+REC-0647,EMP-77641,Business Development & Execution,AI Literacy,10.0,93.7,Generative AI (LLMs),Market Feasibility Generator,Heriot-Watt University,Reverse Hackathon,UAT & Testing,25.0,101000.0,41.9
+REC-0648,EMP-46395,I&TF,Deep Technical & LLMOps,69.5,97.8,Generative AI (LLMs),Agentic IT Helpdesk,MBZUAI,Joint R&D Lab,UAT & Testing,23.2,25300.0,58.8
+REC-0649,EMP-32700,I&TF,AI Literacy,16.4,56.7,Generative AI (LLMs),AI Developer Copilot,None,None,Development,9.5,259500.0,32.5
+REC-0650,EMP-44620,Finance,AI Literacy,42.6,89.2,Agentic AI Workflows,Automated Audit Reconciliation,RIT Dubai,Joint R&D Lab,Optimizing,31.4,323800.0,95.5
+REC-0651,EMP-30559,Distribution Power,Deep Technical & LLMOps,10.0,95.0,Predictive Machine Learning,Grid Recloser Optimizer,None,None,UAT & Testing,21.9,84100.0,35.5
+REC-0652,EMP-71642,Water & Civil,Deep Technical & LLMOps,17.9,77.2,Computer Vision,Structural Crack Inspection,None,None,UAT & Testing,21.0,66000.0,13.8
+REC-0653,EMP-86539,Finance,Deep Technical & LLMOps,10.0,80.5,Agentic AI Workflows,Invoice Matcher Agent,None,None,Ideation,3.5,28500.0,0.0
+REC-0654,EMP-31732,Legal Affairs,AI Literacy,64.0,93.1,Generative AI (LLMs),NDA Auto-Review Agent,None,None,UAT & Testing,18.9,85300.0,22.1
+REC-0655,EMP-40354,Billing,AI Literacy,14.6,76.1,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,34.1,246000.0,95.8
+REC-0656,EMP-23843,Distribution Power,Deep Technical & LLMOps,15.4,85.5,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,7.5,24900.0,8.4
+REC-0657,EMP-81726,Billing,AI Literacy,10.0,86.0,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,12.1,19600.0,9.4
+REC-0658,EMP-27640,Transmission Power,Deep Technical & LLMOps,18.8,98.6,Computer Vision,Thermal Substations Inspection,None,None,Ideation,6.4,8700.0,0.0
+REC-0659,EMP-62528,Water & Civil,AI for Leaders,30.5,88.4,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Sponsored Capstone,Optimizing,33.7,149300.0,98.0
+REC-0660,EMP-48413,Legal Affairs,Deep Technical & LLMOps,22.5,98.2,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Ideation,3.3,13900.0,0.0
+REC-0661,EMP-62638,I&TF,AI Literacy,39.8,78.8,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Reverse Hackathon,Fully Deployed,27.9,383000.0,41.0
+REC-0662,EMP-62736,Billing,AI Literacy,10.5,83.5,Predictive Machine Learning,Billing Anomaly Detection,None,None,Development,16.5,96100.0,18.3
+REC-0663,EMP-78866,Power & Water Planning,Deep Technical & LLMOps,15.8,80.7,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,16.2,226700.0,12.4
+REC-0664,EMP-29087,Water & Civil,AI for Leaders,26.3,90.7,Autonomous IoT & Sensors,Autonomous Leak Detection,MBZUAI,Reverse Hackathon,Fully Deployed,39.1,65900.0,45.1
+REC-0665,EMP-51430,I&TF,Deep Technical & LLMOps,37.4,80.0,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Joint R&D Lab,Ideation,3.8,7800.0,0.0
+REC-0666,EMP-34504,Finance,AI Literacy,23.5,97.1,Agentic AI Workflows,Automated Audit Reconciliation,None,None,UAT & Testing,24.5,171300.0,40.6
+REC-0667,EMP-17114,Business Development & Execution,AI Literacy,10.0,86.0,Generative AI (LLMs),Market Feasibility Generator,None,None,Development,13.6,104400.0,10.3
+REC-0668,EMP-88859,I&TF,Deep Technical & LLMOps,24.8,74.2,Generative AI (LLMs),AI Developer Copilot,None,None,Ideation,4.3,17900.0,0.0
+REC-0669,EMP-20975,Billing,Deep Technical & LLMOps,17.1,64.8,Predictive Machine Learning,Revenue Risk Profiler,None,None,Fully Deployed,21.4,75500.0,58.0
+REC-0670,EMP-21023,Distribution Power,Deep Technical & LLMOps,23.1,65.3,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Joint R&D Lab,Ideation,5.8,5000.0,0.0
+REC-0671,EMP-31447,Transmission Power,AI Literacy,20.4,62.5,Computer Vision,Overhead Line Monitoring,None,None,Fully Deployed,33.1,142700.0,89.3
+REC-0672,EMP-33959,Water & Civil,Deep Technical & LLMOps,20.3,68.3,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Reverse Hackathon,Development,13.2,19300.0,45.0
+REC-0673,EMP-76203,Water & Civil,Deep Technical & LLMOps,24.9,93.3,Computer Vision,Reservoir Volumetric AI,None,None,Development,13.6,57100.0,7.1
+REC-0674,EMP-39703,Power & Water Planning,Deep Technical & LLMOps,42.5,77.2,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Reverse Hackathon,Fully Deployed,24.1,322200.0,91.1
+REC-0675,EMP-19337,Transmission Power,AI for Leaders,10.0,84.5,Computer Vision,Insulator Wear Classifier,None,None,UAT & Testing,21.6,91900.0,56.4
+REC-0676,EMP-56427,Distribution Power,AI Literacy,16.6,64.0,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Reverse Hackathon,Development,14.2,13900.0,34.8
+REC-0677,EMP-71529,I&TF,AI for Leaders,10.0,73.9,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Joint R&D Lab,UAT & Testing,22.9,52500.0,55.5
+REC-0678,EMP-94665,Business Development & Execution,AI Literacy,15.1,76.7,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,8.2,78900.0,44.2
+REC-0679,EMP-41921,Business Development & Execution,AI for Leaders,23.3,76.9,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Sponsored Capstone,Fully Deployed,38.9,173100.0,88.3
+REC-0680,EMP-43307,Distribution Power,Deep Technical & LLMOps,10.0,76.7,Agentic AI Workflows,LV Power Restoration,RIT Dubai,Sponsored Capstone,Development,13.3,61500.0,12.7
+REC-0681,EMP-37355,Business Development & Execution,AI Literacy,26.9,85.1,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,13.7,162600.0,24.1
+REC-0682,EMP-14835,Water & Civil,Deep Technical & LLMOps,26.6,83.8,Computer Vision,Structural Crack Inspection,None,None,Fully Deployed,26.6,156600.0,81.8
+REC-0683,EMP-30159,Power & Water Planning,AI Literacy,10.0,89.9,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Joint R&D Lab,Ideation,6.5,12700.0,0.0
+REC-0684,EMP-57605,Billing,Deep Technical & LLMOps,16.0,66.2,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,6.8,78400.0,24.2
+REC-0685,EMP-48088,Power & Water Planning,Deep Technical & LLMOps,10.0,86.1,Predictive Machine Learning,Digital Twin Simulation,None,None,Development,9.5,15400.0,9.3
+REC-0686,EMP-88752,I&TF,AI Literacy,10.1,85.1,Generative AI (LLMs),Agentic IT Helpdesk,RIT Dubai,Joint R&D Lab,Fully Deployed,39.6,83000.0,78.2
+REC-0687,EMP-65284,Legal Affairs,AI Literacy,14.9,83.1,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Joint R&D Lab,Optimizing,36.3,82000.0,99.1
+REC-0688,EMP-67043,Power & Water Planning,AI for Leaders,12.9,63.0,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Reverse Hackathon,Fully Deployed,33.7,200000.0,84.0
+REC-0689,EMP-45547,Water & Civil,AI Literacy,10.0,91.5,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,UAT & Testing,23.8,37900.0,51.6
+REC-0690,EMP-92844,I&TF,Deep Technical & LLMOps,10.0,65.1,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Joint R&D Lab,Fully Deployed,38.1,185900.0,92.8
+REC-0691,EMP-37532,Legal Affairs,Deep Technical & LLMOps,18.3,96.8,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Reverse Hackathon,UAT & Testing,23.0,66400.0,24.7
+REC-0692,EMP-44349,Billing,AI for Leaders,47.6,88.4,Generative AI (LLMs),Generative Bill Explanation,None,None,Development,11.3,29700.0,1.2
+REC-0693,EMP-55445,I&TF,AI Literacy,35.6,86.1,Generative AI (LLMs),AI Developer Copilot,None,None,Optimizing,26.7,307100.0,87.2
+REC-0694,EMP-15713,Power & Water Planning,AI for Leaders,23.3,71.1,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Sponsored Capstone,Ideation,3.7,5000.0,0.0
+REC-0695,EMP-66178,Water & Civil,Deep Technical & LLMOps,32.0,96.6,Computer Vision,Structural Crack Inspection,None,None,Development,16.2,26700.0,25.6
+REC-0696,EMP-59407,Legal Affairs,AI Literacy,50.9,82.0,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Joint R&D Lab,Fully Deployed,24.3,1234200.0,89.1
+REC-0697,EMP-80340,Legal Affairs,AI for Leaders,10.0,93.5,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Joint R&D Lab,Fully Deployed,34.9,520600.0,83.6
+REC-0698,EMP-60990,Power & Water Planning,Deep Technical & LLMOps,51.8,79.9,Predictive Machine Learning,Digital Twin Simulation,None,None,Ideation,6.0,5000.0,0.0
+REC-0699,EMP-85672,Legal Affairs,Deep Technical & LLMOps,32.2,89.1,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Ideation,7.9,6600.0,0.0
+REC-0700,EMP-75545,Distribution Power,AI Literacy,43.2,90.1,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Reverse Hackathon,UAT & Testing,22.0,83000.0,43.8
+REC-0701,EMP-94791,Business Development & Execution,Deep Technical & LLMOps,10.0,69.5,Generative AI (LLMs),AI Procurement Sandbox,None,None,UAT & Testing,18.3,25500.0,55.1
+REC-0702,EMP-68141,I&TF,AI Literacy,15.9,41.9,Generative AI (LLMs),Agentic IT Helpdesk,None,None,UAT & Testing,18.4,396800.0,64.2
+REC-0703,EMP-33793,I&TF,AI Literacy,40.4,72.8,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Reverse Hackathon,Development,12.0,40400.0,21.9
+REC-0704,EMP-66570,I&TF,Deep Technical & LLMOps,20.0,71.8,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Optimizing,38.8,127600.0,82.7
+REC-0705,EMP-47892,Distribution Power,Deep Technical & LLMOps,16.3,97.6,Predictive Machine Learning,Grid Recloser Optimizer,MBZUAI,Reverse Hackathon,Development,14.4,53600.0,39.9
+REC-0706,EMP-11015,Water & Civil,AI Literacy,51.3,92.4,Computer Vision,Structural Crack Inspection,None,None,UAT & Testing,15.7,105800.0,56.6
+REC-0707,EMP-71813,Power & Water Planning,AI Literacy,19.8,77.0,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,21.1,39900.0,40.5
+REC-0708,EMP-37712,Billing,AI Literacy,25.2,94.5,Predictive Machine Learning,Billing Anomaly Detection,RIT Dubai,Sponsored Capstone,Development,14.5,113100.0,6.7
+REC-0709,EMP-18415,Transmission Power,AI Literacy,49.7,92.0,Computer Vision,Insulator Wear Classifier,RIT Dubai,Sponsored Capstone,Development,11.3,45000.0,18.0
+REC-0710,EMP-72292,Water & Civil,AI Literacy,53.4,85.6,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Joint R&D Lab,Optimizing,19.0,421900.0,87.5
+REC-0711,EMP-33833,Transmission Power,AI Literacy,10.0,72.4,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Joint R&D Lab,Fully Deployed,30.8,74700.0,91.9
+REC-0712,EMP-14158,Legal Affairs,AI for Leaders,19.4,77.2,Generative AI (LLMs),NDA Auto-Review Agent,Heriot-Watt University,Reverse Hackathon,Development,7.5,9400.0,6.5
+REC-0713,EMP-72680,Power & Water Planning,Deep Technical & LLMOps,35.5,89.3,Predictive Machine Learning,Grid Expansion Planner,RIT Dubai,Sponsored Capstone,Fully Deployed,22.1,374100.0,85.0
+REC-0714,EMP-30309,Transmission Power,Deep Technical & LLMOps,57.7,75.3,Computer Vision,Overhead Line Monitoring,None,None,Development,15.2,71400.0,23.8
+REC-0715,EMP-16970,I&TF,Deep Technical & LLMOps,10.0,91.0,Generative AI (LLMs),AI Developer Copilot,MBZUAI,Joint R&D Lab,Fully Deployed,47.1,301600.0,91.6
+REC-0716,EMP-82474,Business Development & Execution,AI Literacy,36.9,89.7,Generative AI (LLMs),AI Bid Evaluator,None,None,Ideation,7.7,26400.0,0.0
+REC-0717,EMP-96704,Water & Civil,Deep Technical & LLMOps,19.0,80.5,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,16.3,120300.0,82.5
+REC-0718,EMP-56540,Transmission Power,Deep Technical & LLMOps,49.7,85.3,Computer Vision,Thermal Substations Inspection,None,None,Ideation,4.7,7400.0,0.0
+REC-0719,EMP-30384,Business Development & Execution,Deep Technical & LLMOps,10.0,75.3,Generative AI (LLMs),AI Procurement Sandbox,None,None,UAT & Testing,17.6,73400.0,20.2
+REC-0720,EMP-28017,Legal Affairs,Deep Technical & LLMOps,50.9,85.7,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Reverse Hackathon,Fully Deployed,23.2,184100.0,79.4
+REC-0721,EMP-85880,Transmission Power,Deep Technical & LLMOps,33.7,76.5,Computer Vision,Thermal Substations Inspection,MBZUAI,Reverse Hackathon,Ideation,5.9,12300.0,0.0
+REC-0722,EMP-18702,I&TF,AI for Leaders,16.9,57.3,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,19.3,18300.0,52.9
+REC-0723,EMP-10384,Distribution Power,AI Literacy,10.0,93.8,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,2.7,9000.0,0.0
+REC-0724,EMP-10404,Business Development & Execution,Deep Technical & LLMOps,30.6,88.2,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,19.7,367100.0,75.2
+REC-0725,EMP-50943,Distribution Power,Deep Technical & LLMOps,21.4,86.2,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,10.2,39400.0,30.5
+REC-0726,EMP-57926,Power & Water Planning,Deep Technical & LLMOps,10.0,90.1,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,20.0,468100.0,25.6
+REC-0727,EMP-39189,Legal Affairs,AI for Leaders,51.8,85.4,Generative AI (LLMs),Contract Compliance Parser,None,None,Optimizing,31.3,68600.0,97.3
+REC-0728,EMP-22763,Transmission Power,AI Literacy,16.8,80.6,Computer Vision,Insulator Wear Classifier,None,None,Development,15.2,52200.0,2.4
+REC-0729,EMP-28384,Transmission Power,AI for Leaders,48.3,77.2,Computer Vision,Overhead Line Monitoring,MBZUAI,Sponsored Capstone,Ideation,5.7,5000.0,0.0
+REC-0730,EMP-70100,Water & Civil,Deep Technical & LLMOps,32.4,72.9,Computer Vision,Structural Crack Inspection,MBZUAI,Sponsored Capstone,Fully Deployed,29.9,59700.0,70.3
+REC-0731,EMP-19860,Distribution Power,AI for Leaders,52.9,90.1,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,27.1,60200.0,76.7
+REC-0732,EMP-90642,Finance,AI for Leaders,10.0,88.3,Agentic AI Workflows,Invoice Matcher Agent,Heriot-Watt University,Joint R&D Lab,Optimizing,21.4,867400.0,87.0
+REC-0733,EMP-60612,Distribution Power,AI Literacy,26.4,70.0,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Joint R&D Lab,Development,8.7,32300.0,2.5
+REC-0734,EMP-33574,Power & Water Planning,AI for Leaders,64.0,99.9,Predictive Machine Learning,Smart Load Forecasting,RIT Dubai,Reverse Hackathon,Development,16.1,22500.0,12.2
+REC-0735,EMP-33524,Distribution Power,Deep Technical & LLMOps,10.0,90.3,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,37.2,118200.0,87.5
+REC-0736,EMP-79172,Legal Affairs,Deep Technical & LLMOps,25.5,65.6,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Reverse Hackathon,Fully Deployed,33.7,99200.0,48.2
+REC-0737,EMP-20916,Power & Water Planning,Deep Technical & LLMOps,10.0,70.4,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,29.0,226700.0,85.8
+REC-0738,EMP-14809,Legal Affairs,AI for Leaders,62.6,96.0,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Development,15.7,7700.0,23.4
+REC-0739,EMP-42201,Finance,Deep Technical & LLMOps,17.6,95.5,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Joint R&D Lab,Development,9.0,18400.0,20.6
+REC-0740,EMP-63330,Business Development & Execution,AI Literacy,28.1,68.5,Generative AI (LLMs),Market Feasibility Generator,Heriot-Watt University,Sponsored Capstone,Ideation,3.0,19400.0,0.0
+REC-0741,EMP-23456,Business Development & Execution,Deep Technical & LLMOps,20.5,80.4,Generative AI (LLMs),Market Feasibility Generator,RIT Dubai,Joint R&D Lab,Optimizing,31.4,100200.0,84.9
+REC-0742,EMP-66397,Distribution Power,AI for Leaders,40.0,97.0,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,5.5,21600.0,11.4
+REC-0743,EMP-48765,Transmission Power,AI for Leaders,13.6,66.2,Computer Vision,Overhead Line Monitoring,MBZUAI,Sponsored Capstone,UAT & Testing,15.8,41700.0,35.2
+REC-0744,EMP-44816,Business Development & Execution,Deep Technical & LLMOps,17.6,95.1,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Joint R&D Lab,UAT & Testing,19.1,140900.0,57.7
+REC-0745,EMP-55106,Finance,Deep Technical & LLMOps,22.2,78.9,Predictive Machine Learning,Supplier Risk Analysis,None,None,Development,10.6,68000.0,1.0
+REC-0746,EMP-63932,Billing,AI Literacy,10.0,80.6,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,9.0,84900.0,7.9
+REC-0747,EMP-27100,Distribution Power,Deep Technical & LLMOps,10.0,79.0,Predictive Machine Learning,Grid Recloser Optimizer,MBZUAI,Joint R&D Lab,Fully Deployed,44.2,46700.0,55.1
+REC-0748,EMP-67091,Business Development & Execution,AI Literacy,29.7,90.4,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Sponsored Capstone,Development,16.1,14900.0,28.4
+REC-0749,EMP-31949,Transmission Power,AI for Leaders,10.0,61.9,Computer Vision,Overhead Line Monitoring,None,None,Development,17.1,98100.0,1.1
+REC-0750,EMP-80080,Business Development & Execution,AI Literacy,17.7,91.9,Generative AI (LLMs),AI Bid Evaluator,None,None,Development,11.7,46500.0,6.9
+REC-0751,EMP-47744,I&TF,AI Literacy,10.0,75.3,Generative AI (LLMs),Agentic IT Helpdesk,Heriot-Watt University,Joint R&D Lab,Fully Deployed,29.1,73000.0,85.9
+REC-0752,EMP-55543,Business Development & Execution,AI for Leaders,22.9,96.0,Generative AI (LLMs),AI Bid Evaluator,None,None,Optimizing,41.6,130600.0,88.1
+REC-0753,EMP-46187,Water & Civil,AI Literacy,38.4,82.6,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Joint R&D Lab,Fully Deployed,32.5,44100.0,87.5
+REC-0754,EMP-17239,I&TF,AI for Leaders,38.2,79.4,Agentic AI Workflows,Cognitive Cyber Defense,Heriot-Watt University,Reverse Hackathon,Fully Deployed,25.6,77500.0,78.3
+REC-0755,EMP-24489,Power & Water Planning,Deep Technical & LLMOps,25.7,90.6,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,16.0,89700.0,42.3
+REC-0756,EMP-68017,Billing,AI Literacy,26.9,88.5,Predictive Machine Learning,Billing Anomaly Detection,None,None,Fully Deployed,30.1,157300.0,79.7
+REC-0757,EMP-71877,Finance,Deep Technical & LLMOps,40.6,93.0,Agentic AI Workflows,Automated Audit Reconciliation,RIT Dubai,Sponsored Capstone,Optimizing,31.9,138100.0,74.5
+REC-0758,EMP-53125,Finance,AI for Leaders,28.0,69.0,Agentic AI Workflows,Automated Audit Reconciliation,None,None,UAT & Testing,20.3,67900.0,48.5
+REC-0759,EMP-59922,Transmission Power,Deep Technical & LLMOps,12.9,77.9,Computer Vision,Thermal Substations Inspection,MBZUAI,Sponsored Capstone,Ideation,4.6,17700.0,0.0
+REC-0760,EMP-42049,Finance,AI Literacy,10.0,84.6,Agentic AI Workflows,Automated Audit Reconciliation,RIT Dubai,Reverse Hackathon,Optimizing,46.0,136500.0,94.5
+REC-0761,EMP-47131,I&TF,AI Literacy,44.8,90.7,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Sponsored Capstone,Fully Deployed,23.9,82800.0,82.2
+REC-0762,EMP-52944,Billing,AI Literacy,64.4,96.0,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Reverse Hackathon,Development,14.0,21500.0,22.9
+REC-0763,EMP-83963,Finance,AI Literacy,14.4,82.6,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Optimizing,29.1,36000.0,91.5
+REC-0764,EMP-34285,Water & Civil,AI Literacy,16.6,61.8,Computer Vision,Structural Crack Inspection,None,None,Development,11.9,66400.0,19.8
+REC-0765,EMP-47626,Power & Water Planning,Deep Technical & LLMOps,24.4,87.1,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Sponsored Capstone,Development,14.8,127300.0,5.4
+REC-0766,EMP-52808,Distribution Power,Deep Technical & LLMOps,27.5,94.0,Agentic AI Workflows,SCADA Fault Routing,None,None,Fully Deployed,21.3,61200.0,78.0
+REC-0767,EMP-98464,Distribution Power,Deep Technical & LLMOps,15.6,65.5,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,9.2,14300.0,7.6
+REC-0768,EMP-63871,Distribution Power,Deep Technical & LLMOps,55.0,87.5,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,31.2,72000.0,41.5
+REC-0769,EMP-29198,I&TF,AI Literacy,39.2,74.1,Generative AI (LLMs),AI Developer Copilot,None,None,Development,16.4,49800.0,19.6
+REC-0770,EMP-29758,Finance,AI Literacy,21.3,88.6,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Sponsored Capstone,Ideation,7.9,6600.0,0.0
+REC-0771,EMP-25254,Business Development & Execution,AI Literacy,33.4,89.1,Generative AI (LLMs),Market Feasibility Generator,None,None,UAT & Testing,25.1,52000.0,43.7
+REC-0772,EMP-54238,I&TF,AI Literacy,34.2,86.7,Generative AI (LLMs),Agentic IT Helpdesk,None,None,UAT & Testing,11.2,73900.0,63.1
+REC-0773,EMP-11252,I&TF,AI for Leaders,19.1,86.3,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Ideation,2.9,10700.0,0.0
+REC-0774,EMP-49764,Power & Water Planning,Deep Technical & LLMOps,46.3,85.0,Predictive Machine Learning,Grid Expansion Planner,None,None,Optimizing,25.9,198800.0,92.2
+REC-0775,EMP-87709,Finance,AI for Leaders,10.0,70.7,Predictive Machine Learning,Supplier Risk Analysis,Heriot-Watt University,Sponsored Capstone,UAT & Testing,19.8,62400.0,69.6
+REC-0776,EMP-47441,Finance,AI Literacy,38.5,90.4,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,6.4,30700.0,21.4
+REC-0777,EMP-63682,Finance,Deep Technical & LLMOps,15.4,70.8,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Sponsored Capstone,Development,15.3,8500.0,1.3
+REC-0778,EMP-69494,Distribution Power,Deep Technical & LLMOps,21.8,91.8,Agentic AI Workflows,SCADA Fault Routing,RIT Dubai,Reverse Hackathon,Fully Deployed,20.0,250400.0,88.0
+REC-0779,EMP-91317,I&TF,AI Literacy,41.3,95.0,Generative AI (LLMs),Agentic IT Helpdesk,MBZUAI,Reverse Hackathon,UAT & Testing,24.1,96600.0,29.3
+REC-0780,EMP-75215,Distribution Power,Deep Technical & LLMOps,18.2,86.4,Agentic AI Workflows,LV Power Restoration,None,None,Development,14.6,132300.0,8.3
+REC-0781,EMP-88587,Transmission Power,Deep Technical & LLMOps,14.0,80.8,Computer Vision,Thermal Substations Inspection,RIT Dubai,Sponsored Capstone,Ideation,2.8,14900.0,0.0
+REC-0782,EMP-16949,Business Development & Execution,AI Literacy,12.3,55.0,Generative AI (LLMs),AI Bid Evaluator,None,None,UAT & Testing,25.0,74500.0,22.3
+REC-0783,EMP-65393,Transmission Power,AI for Leaders,26.8,63.7,Computer Vision,Insulator Wear Classifier,Heriot-Watt University,Joint R&D Lab,Development,11.0,12000.0,18.4
+REC-0784,EMP-83553,Legal Affairs,AI for Leaders,10.0,80.1,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,28.4,32100.0,85.5
+REC-0785,EMP-16941,Power & Water Planning,Deep Technical & LLMOps,32.4,79.9,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Reverse Hackathon,Optimizing,29.5,342500.0,96.1
+REC-0786,EMP-35934,Water & Civil,Deep Technical & LLMOps,33.7,94.8,Computer Vision,Structural Crack Inspection,None,None,Development,11.0,61900.0,32.0
+REC-0787,EMP-33386,Power & Water Planning,AI Literacy,10.0,95.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,30.5,382600.0,66.8
+REC-0788,EMP-71886,Distribution Power,AI for Leaders,15.0,98.8,Predictive Machine Learning,Grid Recloser Optimizer,Heriot-Watt University,Sponsored Capstone,Optimizing,30.7,311900.0,79.3
+REC-0789,EMP-85745,Legal Affairs,AI for Leaders,37.3,97.5,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Reverse Hackathon,Optimizing,26.7,110000.0,85.7
+REC-0790,EMP-93251,Billing,AI for Leaders,16.0,82.8,Generative AI (LLMs),Generative Bill Explanation,None,None,Optimizing,28.1,23500.0,85.3
+REC-0791,EMP-63413,Legal Affairs,AI Literacy,10.0,84.5,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,Fully Deployed,28.6,192100.0,77.5
+REC-0792,EMP-66800,Power & Water Planning,Deep Technical & LLMOps,17.3,80.9,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,26.7,35000.0,28.1
+REC-0793,EMP-52318,Legal Affairs,Deep Technical & LLMOps,37.8,98.4,Generative AI (LLMs),NDA Auto-Review Agent,RIT Dubai,Joint R&D Lab,UAT & Testing,17.7,68100.0,32.5
+REC-0794,EMP-80173,Finance,Deep Technical & LLMOps,19.5,87.2,Agentic AI Workflows,Automated Audit Reconciliation,None,None,UAT & Testing,17.5,109800.0,35.9
+REC-0795,EMP-80390,Power & Water Planning,Deep Technical & LLMOps,11.3,70.5,Predictive Machine Learning,Smart Load Forecasting,Heriot-Watt University,Joint R&D Lab,Fully Deployed,41.1,71500.0,53.1
+REC-0796,EMP-62329,I&TF,Deep Technical & LLMOps,41.3,98.0,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Development,11.0,20400.0,14.9
+REC-0797,EMP-53088,Billing,AI for Leaders,50.7,95.2,Generative AI (LLMs),Generative Bill Explanation,None,None,Development,9.3,30900.0,12.3
+REC-0798,EMP-49811,Billing,Deep Technical & LLMOps,26.7,94.5,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Joint R&D Lab,Ideation,2.8,5000.0,0.0
+REC-0799,EMP-65479,Billing,AI Literacy,10.0,64.4,Generative AI (LLMs),Generative Bill Explanation,None,None,Fully Deployed,23.5,51800.0,72.7
+REC-0800,EMP-95392,Business Development & Execution,Deep Technical & LLMOps,31.5,83.8,Generative AI (LLMs),AI Bid Evaluator,None,None,Fully Deployed,35.2,51200.0,65.2
+REC-0801,EMP-97369,I&TF,AI Literacy,20.0,88.7,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,12.8,65400.0,39.1
+REC-0802,EMP-29963,Billing,Deep Technical & LLMOps,12.8,39.4,Predictive Machine Learning,Billing Anomaly Detection,MBZUAI,Sponsored Capstone,Development,16.0,18500.0,7.8
+REC-0803,EMP-65123,Distribution Power,AI Literacy,10.0,68.7,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Sponsored Capstone,Fully Deployed,31.5,78400.0,82.3
+REC-0804,EMP-83477,Transmission Power,AI Literacy,18.6,89.3,Computer Vision,Overhead Line Monitoring,None,None,Ideation,4.1,6900.0,0.0
+REC-0805,EMP-24388,Billing,AI Literacy,38.1,73.2,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Joint R&D Lab,UAT & Testing,19.1,433200.0,62.7
+REC-0806,EMP-15569,Finance,AI Literacy,21.9,91.9,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Reverse Hackathon,Development,13.4,73100.0,41.3
+REC-0807,EMP-79836,Water & Civil,Deep Technical & LLMOps,36.5,93.4,Computer Vision,Reservoir Volumetric AI,None,None,Optimizing,29.2,134500.0,92.2
+REC-0808,EMP-46586,Water & Civil,Deep Technical & LLMOps,51.3,93.8,Computer Vision,Structural Crack Inspection,RIT Dubai,Reverse Hackathon,UAT & Testing,19.2,113100.0,36.1
+REC-0809,EMP-22015,Transmission Power,Deep Technical & LLMOps,10.0,89.5,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,24.2,165000.0,55.1
+REC-0810,EMP-55002,Water & Civil,AI Literacy,10.0,79.6,Autonomous IoT & Sensors,Autonomous Leak Detection,RIT Dubai,Joint R&D Lab,Fully Deployed,34.1,149100.0,55.3
+REC-0811,EMP-16254,I&TF,AI Literacy,10.0,90.7,Agentic AI Workflows,Cognitive Cyber Defense,Heriot-Watt University,Sponsored Capstone,UAT & Testing,15.0,34500.0,40.8
+REC-0812,EMP-27144,Transmission Power,AI Literacy,15.2,58.0,Computer Vision,Thermal Substations Inspection,None,None,Development,9.9,35400.0,16.4
+REC-0813,EMP-34214,Power & Water Planning,AI Literacy,41.7,89.7,Predictive Machine Learning,Smart Load Forecasting,None,None,UAT & Testing,12.9,36200.0,6.1
+REC-0814,EMP-90719,Distribution Power,Deep Technical & LLMOps,59.0,87.2,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Optimizing,35.7,113800.0,88.4
+REC-0815,EMP-81774,Billing,AI Literacy,35.6,71.7,Generative AI (LLMs),Generative Bill Explanation,None,None,UAT & Testing,22.9,69500.0,16.9
+REC-0816,EMP-16090,Legal Affairs,AI Literacy,13.0,47.2,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,26.4,275000.0,92.0
+REC-0817,EMP-21637,I&TF,AI Literacy,39.2,70.4,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Reverse Hackathon,Optimizing,45.8,78400.0,87.0
+REC-0818,EMP-32415,Business Development & Execution,AI Literacy,30.3,63.5,Generative AI (LLMs),AI Bid Evaluator,Heriot-Watt University,Reverse Hackathon,Fully Deployed,46.6,58900.0,79.4
+REC-0819,EMP-34071,Distribution Power,AI for Leaders,39.2,89.0,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Reverse Hackathon,Fully Deployed,32.1,66800.0,93.3
+REC-0820,EMP-68243,Power & Water Planning,Deep Technical & LLMOps,26.4,82.8,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,27.2,72800.0,80.2
+REC-0821,EMP-51240,Distribution Power,AI Literacy,10.0,95.0,Agentic AI Workflows,LV Power Restoration,RIT Dubai,Sponsored Capstone,Optimizing,33.6,114800.0,72.1
+REC-0822,EMP-93807,Legal Affairs,AI Literacy,10.0,79.9,Generative AI (LLMs),Contract Compliance Parser,Heriot-Watt University,Joint R&D Lab,Optimizing,27.1,192700.0,94.5
+REC-0823,EMP-43434,Distribution Power,AI Literacy,15.4,91.1,Agentic AI Workflows,LV Power Restoration,None,None,Optimizing,37.7,79000.0,94.1
+REC-0824,EMP-79724,Business Development & Execution,AI Literacy,10.5,68.3,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,Fully Deployed,33.0,129900.0,59.1
+REC-0825,EMP-85697,Business Development & Execution,AI Literacy,26.7,92.6,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Reverse Hackathon,Development,12.7,43700.0,3.0
+REC-0826,EMP-38732,Water & Civil,Deep Technical & LLMOps,10.0,80.5,Computer Vision,Reservoir Volumetric AI,None,None,Ideation,8.5,15400.0,0.0
+REC-0827,EMP-21314,Water & Civil,AI for Leaders,39.7,79.7,Autonomous IoT & Sensors,Autonomous Leak Detection,Heriot-Watt University,Joint R&D Lab,Development,10.1,33400.0,6.6
+REC-0828,EMP-33954,Distribution Power,AI for Leaders,21.8,92.4,Agentic AI Workflows,LV Power Restoration,None,None,Optimizing,28.5,288100.0,94.6
+REC-0829,EMP-67108,Finance,AI for Leaders,16.0,73.9,Agentic AI Workflows,Invoice Matcher Agent,None,None,Fully Deployed,37.2,159100.0,65.5
+REC-0830,EMP-97044,Business Development & Execution,AI for Leaders,28.7,91.6,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,UAT & Testing,18.3,102400.0,16.7
+REC-0831,EMP-97505,Legal Affairs,AI for Leaders,34.8,72.8,Generative AI (LLMs),Contract Compliance Parser,None,None,UAT & Testing,26.4,50800.0,50.5
+REC-0832,EMP-46668,Finance,Deep Technical & LLMOps,34.6,98.3,Agentic AI Workflows,Automated Audit Reconciliation,MBZUAI,Joint R&D Lab,Development,15.0,49200.0,19.6
+REC-0833,EMP-33061,Billing,Deep Technical & LLMOps,31.9,67.2,Generative AI (LLMs),Generative Bill Explanation,None,None,UAT & Testing,18.5,104700.0,25.7
+REC-0834,EMP-89252,Business Development & Execution,AI Literacy,32.1,73.9,Generative AI (LLMs),AI Procurement Sandbox,None,None,Fully Deployed,21.1,73400.0,95.4
+REC-0835,EMP-49749,Billing,Deep Technical & LLMOps,10.0,69.7,Predictive Machine Learning,Revenue Risk Profiler,None,None,UAT & Testing,14.2,205300.0,65.7
+REC-0836,EMP-26907,Business Development & Execution,AI for Leaders,25.8,46.9,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,10.6,322100.0,24.6
+REC-0837,EMP-28777,I&TF,Deep Technical & LLMOps,24.5,94.1,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Reverse Hackathon,UAT & Testing,21.6,46700.0,59.9
+REC-0838,EMP-61745,Distribution Power,Deep Technical & LLMOps,41.2,78.8,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Sponsored Capstone,Development,15.3,27100.0,18.5
+REC-0839,EMP-91818,Power & Water Planning,Deep Technical & LLMOps,19.8,51.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Optimizing,30.7,103700.0,97.9
+REC-0840,EMP-33624,Distribution Power,AI Literacy,39.1,70.5,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Joint R&D Lab,Development,9.3,13900.0,9.8
+REC-0841,EMP-33321,I&TF,Deep Technical & LLMOps,31.9,78.4,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Sponsored Capstone,Optimizing,31.2,73500.0,90.9
+REC-0842,EMP-20488,Distribution Power,AI Literacy,25.6,91.5,Agentic AI Workflows,SCADA Fault Routing,Heriot-Watt University,Reverse Hackathon,Development,12.1,78400.0,6.0
+REC-0843,EMP-32574,Water & Civil,AI Literacy,10.0,89.2,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Development,15.9,37000.0,6.7
+REC-0844,EMP-15240,Transmission Power,AI Literacy,10.2,67.6,Computer Vision,Thermal Substations Inspection,Heriot-Watt University,Joint R&D Lab,Fully Deployed,39.5,549900.0,85.8
+REC-0845,EMP-53221,Business Development & Execution,Deep Technical & LLMOps,35.8,83.3,Generative AI (LLMs),Market Feasibility Generator,None,None,Fully Deployed,26.0,94000.0,83.6
+REC-0846,EMP-20478,Water & Civil,AI Literacy,29.3,93.2,Computer Vision,Reservoir Volumetric AI,MBZUAI,Reverse Hackathon,UAT & Testing,21.8,110200.0,17.0
+REC-0847,EMP-65645,Power & Water Planning,AI for Leaders,15.7,89.4,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Joint R&D Lab,Development,9.4,19200.0,4.6
+REC-0848,EMP-29262,Power & Water Planning,Deep Technical & LLMOps,10.0,84.5,Predictive Machine Learning,Grid Expansion Planner,None,None,Ideation,3.3,9000.0,0.0
+REC-0849,EMP-62796,Distribution Power,AI Literacy,10.0,84.4,Agentic AI Workflows,SCADA Fault Routing,RIT Dubai,Reverse Hackathon,Fully Deployed,38.2,127100.0,57.7
+REC-0850,EMP-14432,Distribution Power,Deep Technical & LLMOps,27.9,84.7,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,4.6,5000.0,0.0
+REC-0851,EMP-74291,I&TF,AI for Leaders,10.0,81.9,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Reverse Hackathon,Development,13.9,20400.0,21.3
+REC-0852,EMP-89104,Billing,AI Literacy,56.9,96.9,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Sponsored Capstone,Fully Deployed,35.2,197000.0,87.9
+REC-0853,EMP-69399,Finance,Deep Technical & LLMOps,74.3,99.4,Predictive Machine Learning,Supplier Risk Analysis,MBZUAI,Reverse Hackathon,Ideation,4.8,15700.0,0.0
+REC-0854,EMP-89714,Distribution Power,AI Literacy,18.3,87.9,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Ideation,5.7,5000.0,0.0
+REC-0855,EMP-60428,I&TF,AI for Leaders,37.8,79.1,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Ideation,5.4,7400.0,0.0
+REC-0856,EMP-97731,Legal Affairs,AI for Leaders,29.1,86.1,Generative AI (LLMs),Contract Compliance Parser,None,None,Optimizing,25.1,22200.0,74.2
+REC-0857,EMP-10302,Water & Civil,Deep Technical & LLMOps,39.9,76.8,Computer Vision,Reservoir Volumetric AI,Heriot-Watt University,Sponsored Capstone,Development,13.5,39400.0,35.5
+REC-0858,EMP-92558,Transmission Power,Deep Technical & LLMOps,66.0,89.0,Computer Vision,Overhead Line Monitoring,None,None,Optimizing,27.8,405800.0,81.8
+REC-0859,EMP-10055,Finance,AI Literacy,26.3,87.5,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,8.8,112000.0,26.7
+REC-0860,EMP-18717,I&TF,AI Literacy,49.7,90.8,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,37.1,326700.0,72.5
+REC-0861,EMP-38699,Transmission Power,Deep Technical & LLMOps,28.4,96.6,Computer Vision,Insulator Wear Classifier,None,None,Development,10.2,60200.0,30.7
+REC-0862,EMP-83686,Transmission Power,Deep Technical & LLMOps,49.4,96.6,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,24.4,199500.0,27.2
+REC-0863,EMP-77661,Legal Affairs,Deep Technical & LLMOps,10.0,98.0,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Fully Deployed,38.6,101800.0,70.4
+REC-0864,EMP-54247,Water & Civil,AI for Leaders,59.3,87.1,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Fully Deployed,29.1,78000.0,71.6
+REC-0865,EMP-26748,Power & Water Planning,Deep Technical & LLMOps,62.8,93.0,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,38.4,295000.0,78.6
+REC-0866,EMP-14621,Transmission Power,AI for Leaders,41.6,97.0,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,29.7,149200.0,75.8
+REC-0867,EMP-25034,Distribution Power,AI Literacy,10.0,92.0,Agentic AI Workflows,SCADA Fault Routing,RIT Dubai,Reverse Hackathon,Development,11.8,9400.0,18.5
+REC-0868,EMP-15126,Billing,Deep Technical & LLMOps,20.8,89.1,Generative AI (LLMs),Generative Bill Explanation,RIT Dubai,Reverse Hackathon,UAT & Testing,22.0,209000.0,48.0
+REC-0869,EMP-15122,Power & Water Planning,AI for Leaders,10.6,65.9,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Joint R&D Lab,UAT & Testing,28.2,66200.0,27.7
+REC-0870,EMP-28030,Power & Water Planning,AI Literacy,26.9,90.2,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Sponsored Capstone,Fully Deployed,37.6,69500.0,71.4
+REC-0871,EMP-92838,Legal Affairs,Deep Technical & LLMOps,10.0,66.1,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Joint R&D Lab,Development,11.8,86400.0,0.1
+REC-0872,EMP-94717,Water & Civil,AI for Leaders,49.6,94.6,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Optimizing,32.6,290900.0,57.6
+REC-0873,EMP-65658,Billing,AI for Leaders,17.6,75.5,Predictive Machine Learning,Revenue Risk Profiler,None,None,UAT & Testing,13.7,36700.0,39.9
+REC-0874,EMP-48638,Water & Civil,AI Literacy,15.8,53.6,Computer Vision,Structural Crack Inspection,None,None,Fully Deployed,38.0,104500.0,52.5
+REC-0875,EMP-77067,Finance,AI Literacy,16.1,90.0,Agentic AI Workflows,Invoice Matcher Agent,None,None,Development,14.7,19100.0,7.4
+REC-0876,EMP-98869,Power & Water Planning,Deep Technical & LLMOps,12.7,62.7,Predictive Machine Learning,Digital Twin Simulation,RIT Dubai,Sponsored Capstone,UAT & Testing,21.1,39000.0,52.1
+REC-0877,EMP-44674,I&TF,Deep Technical & LLMOps,21.4,97.8,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,36.3,10800.0,44.2
+REC-0878,EMP-45854,Power & Water Planning,AI Literacy,10.0,72.3,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Reverse Hackathon,UAT & Testing,11.9,35100.0,92.5
+REC-0879,EMP-56271,Business Development & Execution,AI Literacy,30.2,83.2,Generative AI (LLMs),Market Feasibility Generator,None,None,Optimizing,25.5,129100.0,70.1
+REC-0880,EMP-83688,Billing,Deep Technical & LLMOps,10.0,93.5,Predictive Machine Learning,Billing Anomaly Detection,Heriot-Watt University,Joint R&D Lab,Fully Deployed,42.8,12300.0,82.8
+REC-0881,EMP-48518,I&TF,AI Literacy,39.5,76.8,Generative AI (LLMs),Agentic IT Helpdesk,Heriot-Watt University,Sponsored Capstone,UAT & Testing,19.0,26400.0,30.5
+REC-0882,EMP-20267,Business Development & Execution,AI for Leaders,41.9,69.5,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Reverse Hackathon,Fully Deployed,36.5,192500.0,73.4
+REC-0883,EMP-11062,Distribution Power,Deep Technical & LLMOps,41.7,92.1,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,27.5,38300.0,79.0
+REC-0884,EMP-60448,I&TF,AI Literacy,31.1,89.8,Generative AI (LLMs),AI Developer Copilot,RIT Dubai,Sponsored Capstone,Fully Deployed,29.3,104500.0,79.7
+REC-0885,EMP-16229,Billing,Deep Technical & LLMOps,26.4,56.1,Generative AI (LLMs),Generative Bill Explanation,Heriot-Watt University,Sponsored Capstone,Development,17.6,10500.0,29.1
+REC-0886,EMP-66793,Finance,AI Literacy,46.6,88.6,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,11.5,54800.0,4.6
+REC-0887,EMP-57915,Distribution Power,AI for Leaders,31.7,73.7,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Fully Deployed,35.1,91300.0,59.1
+REC-0888,EMP-14632,Legal Affairs,Deep Technical & LLMOps,31.3,86.4,Generative AI (LLMs),Regulatory Risk Analyzer,RIT Dubai,Reverse Hackathon,Fully Deployed,32.8,56900.0,70.5
+REC-0889,EMP-13596,Distribution Power,AI for Leaders,37.0,95.4,Agentic AI Workflows,SCADA Fault Routing,None,None,Development,12.7,5000.0,13.8
+REC-0890,EMP-16168,Distribution Power,Deep Technical & LLMOps,56.1,92.9,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,12.6,19300.0,29.3
+REC-0891,EMP-17561,Transmission Power,Deep Technical & LLMOps,64.2,96.9,Computer Vision,Insulator Wear Classifier,MBZUAI,Joint R&D Lab,UAT & Testing,12.1,134400.0,27.1
+REC-0892,EMP-83794,I&TF,AI Literacy,10.0,76.2,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Ideation,6.0,34100.0,0.0
+REC-0893,EMP-92152,Power & Water Planning,AI Literacy,40.1,72.6,Predictive Machine Learning,Smart Load Forecasting,RIT Dubai,Reverse Hackathon,Fully Deployed,28.8,99400.0,80.3
+REC-0894,EMP-36734,Distribution Power,AI Literacy,10.0,75.3,Agentic AI Workflows,LV Power Restoration,None,None,Fully Deployed,42.7,109300.0,87.1
+REC-0895,EMP-16371,Legal Affairs,AI Literacy,23.8,90.7,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Development,9.7,23000.0,21.4
+REC-0896,EMP-36069,Water & Civil,AI Literacy,10.0,74.5,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,29.2,316700.0,90.8
+REC-0897,EMP-89905,Transmission Power,AI for Leaders,15.8,73.7,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,29.8,65100.0,69.9
+REC-0898,EMP-22910,Water & Civil,AI for Leaders,10.0,33.3,Computer Vision,Reservoir Volumetric AI,MBZUAI,Joint R&D Lab,Fully Deployed,36.3,242100.0,75.4
+REC-0899,EMP-83479,I&TF,Deep Technical & LLMOps,43.1,78.6,Generative AI (LLMs),AI Developer Copilot,Heriot-Watt University,Sponsored Capstone,Development,9.0,48200.0,0.3
+REC-0900,EMP-87735,Power & Water Planning,Deep Technical & LLMOps,33.8,67.7,Predictive Machine Learning,Grid Expansion Planner,None,None,UAT & Testing,20.7,87100.0,33.8
+REC-0901,EMP-91264,I&TF,Deep Technical & LLMOps,64.6,99.1,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Fully Deployed,24.7,52400.0,72.8
+REC-0902,EMP-33275,Transmission Power,AI Literacy,41.9,97.4,Computer Vision,Thermal Substations Inspection,RIT Dubai,Sponsored Capstone,Development,12.8,164400.0,13.5
+REC-0903,EMP-82274,Finance,AI Literacy,10.0,88.9,Predictive Machine Learning,Supplier Risk Analysis,None,None,Development,9.6,127600.0,1.3
+REC-0904,EMP-91449,Distribution Power,Deep Technical & LLMOps,49.4,82.4,Agentic AI Workflows,LV Power Restoration,Heriot-Watt University,Sponsored Capstone,Development,17.6,243500.0,11.8
+REC-0905,EMP-70004,Business Development & Execution,AI for Leaders,10.5,91.8,Generative AI (LLMs),Market Feasibility Generator,RIT Dubai,Joint R&D Lab,Development,13.3,16400.0,2.0
+REC-0906,EMP-72981,Legal Affairs,AI Literacy,27.7,94.1,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Development,13.6,48800.0,11.5
+REC-0907,EMP-94659,Billing,Deep Technical & LLMOps,10.0,75.4,Predictive Machine Learning,Billing Anomaly Detection,MBZUAI,Reverse Hackathon,Development,14.8,20900.0,10.6
+REC-0908,EMP-64553,Finance,Deep Technical & LLMOps,57.6,89.5,Predictive Machine Learning,Supplier Risk Analysis,None,None,Optimizing,38.4,211200.0,83.0
+REC-0909,EMP-58447,Water & Civil,Deep Technical & LLMOps,10.0,74.3,Computer Vision,Structural Crack Inspection,MBZUAI,Joint R&D Lab,Fully Deployed,27.9,149700.0,75.5
+REC-0910,EMP-44529,Legal Affairs,AI Literacy,13.4,74.5,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Sponsored Capstone,Development,12.3,28400.0,12.6
+REC-0911,EMP-85703,Legal Affairs,Deep Technical & LLMOps,51.8,80.3,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,29.3,98700.0,87.7
+REC-0912,EMP-86090,I&TF,AI for Leaders,17.0,81.1,Generative AI (LLMs),AI Developer Copilot,None,None,Ideation,9.2,52600.0,0.0
+REC-0913,EMP-27260,Business Development & Execution,Deep Technical & LLMOps,22.8,76.7,Generative AI (LLMs),AI Bid Evaluator,Heriot-Watt University,Sponsored Capstone,UAT & Testing,10.9,70900.0,49.3
+REC-0914,EMP-13812,I&TF,Deep Technical & LLMOps,31.8,89.3,Agentic AI Workflows,Cognitive Cyber Defense,Heriot-Watt University,Reverse Hackathon,Development,10.3,6800.0,17.7
+REC-0915,EMP-38024,Distribution Power,Deep Technical & LLMOps,49.9,90.8,Predictive Machine Learning,Grid Recloser Optimizer,RIT Dubai,Joint R&D Lab,Ideation,4.8,6400.0,0.0
+REC-0916,EMP-68656,Power & Water Planning,Deep Technical & LLMOps,10.8,74.4,Predictive Machine Learning,Grid Expansion Planner,None,None,Fully Deployed,32.8,49300.0,73.0
+REC-0917,EMP-37285,Transmission Power,AI Literacy,10.0,74.5,Computer Vision,Overhead Line Monitoring,None,None,Development,12.3,18900.0,8.7
+REC-0918,EMP-11605,Water & Civil,Deep Technical & LLMOps,10.0,85.8,Computer Vision,Reservoir Volumetric AI,None,None,Fully Deployed,31.7,208900.0,76.1
+REC-0919,EMP-81158,Business Development & Execution,Deep Technical & LLMOps,17.9,68.4,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Sponsored Capstone,UAT & Testing,19.4,161100.0,40.6
+REC-0920,EMP-82303,Business Development & Execution,Deep Technical & LLMOps,16.5,95.1,Generative AI (LLMs),AI Procurement Sandbox,MBZUAI,Joint R&D Lab,Ideation,5.5,5000.0,0.0
+REC-0921,EMP-37139,Transmission Power,AI Literacy,32.8,90.4,Computer Vision,Thermal Substations Inspection,None,None,Fully Deployed,34.8,76300.0,95.7
+REC-0922,EMP-87149,Power & Water Planning,AI Literacy,35.1,92.3,Predictive Machine Learning,Digital Twin Simulation,None,None,UAT & Testing,27.2,45200.0,89.9
+REC-0923,EMP-66138,Billing,Deep Technical & LLMOps,23.0,98.1,Predictive Machine Learning,Revenue Risk Profiler,None,None,Development,17.3,133000.0,43.7
+REC-0924,EMP-86125,Billing,Deep Technical & LLMOps,31.2,87.9,Generative AI (LLMs),Generative Bill Explanation,None,None,Development,12.9,82500.0,0.2
+REC-0925,EMP-23918,Finance,Deep Technical & LLMOps,31.9,83.6,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Joint R&D Lab,Ideation,4.0,17000.0,0.0
+REC-0926,EMP-95655,Power & Water Planning,Deep Technical & LLMOps,12.6,59.4,Predictive Machine Learning,Smart Load Forecasting,None,None,Optimizing,29.4,64800.0,99.7
+REC-0927,EMP-37446,Legal Affairs,AI for Leaders,11.5,84.5,Generative AI (LLMs),Contract Compliance Parser,None,None,UAT & Testing,14.7,20100.0,40.2
+REC-0928,EMP-23046,Distribution Power,Deep Technical & LLMOps,10.0,90.9,Agentic AI Workflows,LV Power Restoration,None,None,Ideation,6.9,26400.0,0.0
+REC-0929,EMP-34818,Billing,Deep Technical & LLMOps,20.6,83.0,Predictive Machine Learning,Revenue Risk Profiler,MBZUAI,Reverse Hackathon,Fully Deployed,31.7,549900.0,83.5
+REC-0930,EMP-14324,Finance,AI for Leaders,28.6,83.1,Agentic AI Workflows,Invoice Matcher Agent,MBZUAI,Reverse Hackathon,Development,13.3,9700.0,26.3
+REC-0931,EMP-86323,I&TF,Deep Technical & LLMOps,28.0,76.1,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Sponsored Capstone,Development,13.0,237300.0,4.9
+REC-0932,EMP-19111,Distribution Power,AI Literacy,15.1,97.0,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,9.9,36300.0,9.4
+REC-0933,EMP-48110,I&TF,AI for Leaders,22.6,90.5,Agentic AI Workflows,Cognitive Cyber Defense,RIT Dubai,Reverse Hackathon,UAT & Testing,16.7,90300.0,45.1
+REC-0934,EMP-26389,Legal Affairs,Deep Technical & LLMOps,16.9,82.8,Generative AI (LLMs),NDA Auto-Review Agent,MBZUAI,Joint R&D Lab,Ideation,4.1,5000.0,0.0
+REC-0935,EMP-51427,I&TF,AI Literacy,21.3,66.2,Generative AI (LLMs),AI Developer Copilot,None,None,UAT & Testing,21.9,19100.0,52.6
+REC-0936,EMP-89579,Legal Affairs,AI Literacy,15.2,93.8,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Fully Deployed,31.5,19400.0,89.4
+REC-0937,EMP-38746,Business Development & Execution,AI Literacy,35.6,81.3,Generative AI (LLMs),AI Bid Evaluator,MBZUAI,Joint R&D Lab,Development,6.7,90100.0,48.6
+REC-0938,EMP-97886,Water & Civil,AI Literacy,33.8,70.2,Computer Vision,Structural Crack Inspection,RIT Dubai,Sponsored Capstone,Development,8.9,37000.0,28.1
+REC-0939,EMP-10117,Legal Affairs,AI Literacy,10.0,86.9,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Joint R&D Lab,Development,11.2,57100.0,7.5
+REC-0940,EMP-94471,Power & Water Planning,AI for Leaders,10.0,77.2,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Reverse Hackathon,UAT & Testing,19.9,195500.0,58.2
+REC-0941,EMP-23234,Business Development & Execution,Deep Technical & LLMOps,10.8,85.5,Generative AI (LLMs),Market Feasibility Generator,None,None,Optimizing,35.1,137100.0,82.8
+REC-0942,EMP-63441,Finance,AI for Leaders,14.1,86.8,Agentic AI Workflows,Automated Audit Reconciliation,None,None,Development,12.1,152600.0,6.9
+REC-0943,EMP-10846,Business Development & Execution,AI Literacy,15.9,86.1,Generative AI (LLMs),Market Feasibility Generator,None,None,Ideation,4.3,5100.0,0.0
+REC-0944,EMP-20954,Business Development & Execution,AI Literacy,10.0,87.3,Generative AI (LLMs),AI Bid Evaluator,Heriot-Watt University,Reverse Hackathon,Development,10.8,28300.0,11.0
+REC-0945,EMP-89239,Business Development & Execution,Deep Technical & LLMOps,15.0,98.0,Generative AI (LLMs),AI Procurement Sandbox,None,None,Development,12.6,19200.0,29.3
+REC-0946,EMP-56514,Business Development & Execution,AI Literacy,16.7,90.0,Generative AI (LLMs),AI Bid Evaluator,RIT Dubai,Sponsored Capstone,Fully Deployed,34.5,231100.0,80.9
+REC-0947,EMP-98236,Billing,Deep Technical & LLMOps,21.3,83.9,Generative AI (LLMs),Generative Bill Explanation,MBZUAI,Reverse Hackathon,Ideation,4.3,24100.0,0.0
+REC-0948,EMP-16469,Power & Water Planning,Deep Technical & LLMOps,32.5,94.4,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,8.8,27500.0,10.1
+REC-0949,EMP-40105,Finance,Deep Technical & LLMOps,10.0,74.3,Predictive Machine Learning,Supplier Risk Analysis,RIT Dubai,Sponsored Capstone,UAT & Testing,19.6,25900.0,65.7
+REC-0950,EMP-52101,Water & Civil,AI Literacy,13.9,81.1,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Sponsored Capstone,Development,10.1,105700.0,0.1
+REC-0951,EMP-74323,Transmission Power,Deep Technical & LLMOps,10.0,96.5,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,21.2,39000.0,26.6
+REC-0952,EMP-68067,Finance,AI Literacy,30.9,74.9,Agentic AI Workflows,Invoice Matcher Agent,None,None,Ideation,8.0,7200.0,0.0
+REC-0953,EMP-59376,Legal Affairs,Deep Technical & LLMOps,10.0,60.1,Generative AI (LLMs),Contract Compliance Parser,MBZUAI,Reverse Hackathon,Optimizing,23.9,62700.0,75.9
+REC-0954,EMP-55587,Distribution Power,Deep Technical & LLMOps,22.3,71.8,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Joint R&D Lab,Development,15.5,49700.0,41.5
+REC-0955,EMP-46976,Business Development & Execution,AI Literacy,13.9,81.9,Generative AI (LLMs),AI Procurement Sandbox,Heriot-Watt University,Sponsored Capstone,Optimizing,34.8,80000.0,93.3
+REC-0956,EMP-77584,Water & Civil,AI Literacy,33.2,82.9,Computer Vision,Structural Crack Inspection,None,None,Development,15.3,69200.0,28.0
+REC-0957,EMP-88477,Business Development & Execution,AI Literacy,10.0,80.8,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Joint R&D Lab,Fully Deployed,29.4,75700.0,87.7
+REC-0958,EMP-52533,Legal Affairs,Deep Technical & LLMOps,10.0,74.4,Generative AI (LLMs),Regulatory Risk Analyzer,Heriot-Watt University,Reverse Hackathon,Development,7.7,60700.0,29.4
+REC-0959,EMP-11828,I&TF,AI Literacy,17.7,86.1,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Fully Deployed,33.1,56500.0,73.2
+REC-0960,EMP-11917,Distribution Power,Deep Technical & LLMOps,11.4,81.6,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Development,16.2,105300.0,44.8
+REC-0961,EMP-30618,Transmission Power,AI Literacy,31.8,92.9,Computer Vision,Insulator Wear Classifier,RIT Dubai,Joint R&D Lab,UAT & Testing,15.8,52900.0,65.8
+REC-0962,EMP-42254,Water & Civil,AI for Leaders,32.5,94.7,Autonomous IoT & Sensors,Autonomous Leak Detection,MBZUAI,Joint R&D Lab,Fully Deployed,26.5,127300.0,67.9
+REC-0963,EMP-57362,I&TF,Deep Technical & LLMOps,22.0,81.6,Generative AI (LLMs),Agentic IT Helpdesk,None,None,UAT & Testing,22.3,30500.0,61.3
+REC-0964,EMP-30128,Finance,Deep Technical & LLMOps,20.7,65.5,Agentic AI Workflows,Invoice Matcher Agent,None,None,UAT & Testing,18.0,78000.0,58.7
+REC-0965,EMP-69383,Water & Civil,Deep Technical & LLMOps,10.0,91.4,Computer Vision,Reservoir Volumetric AI,MBZUAI,Joint R&D Lab,Ideation,8.3,5000.0,0.0
+REC-0966,EMP-75545,Finance,AI Literacy,57.3,90.1,Predictive Machine Learning,Supplier Risk Analysis,Heriot-Watt University,Joint R&D Lab,Development,14.0,38100.0,4.4
+REC-0967,EMP-92180,Power & Water Planning,AI Literacy,16.8,59.7,Predictive Machine Learning,Grid Expansion Planner,MBZUAI,Reverse Hackathon,UAT & Testing,17.1,36600.0,18.9
+REC-0968,EMP-97958,Power & Water Planning,Deep Technical & LLMOps,28.6,95.6,Predictive Machine Learning,Smart Load Forecasting,MBZUAI,Reverse Hackathon,Ideation,3.9,8700.0,0.0
+REC-0969,EMP-19865,Water & Civil,AI for Leaders,10.0,81.0,Computer Vision,Structural Crack Inspection,None,None,Development,10.4,57300.0,12.4
+REC-0970,EMP-12219,Legal Affairs,AI for Leaders,10.0,94.5,Generative AI (LLMs),Contract Compliance Parser,RIT Dubai,Joint R&D Lab,Development,11.9,13200.0,3.2
+REC-0971,EMP-49809,I&TF,AI Literacy,17.5,84.3,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Development,12.9,38100.0,56.1
+REC-0972,EMP-15287,Legal Affairs,AI Literacy,12.2,43.3,Generative AI (LLMs),Regulatory Risk Analyzer,None,None,UAT & Testing,20.9,109500.0,39.2
+REC-0973,EMP-44387,I&TF,AI Literacy,11.3,60.7,Agentic AI Workflows,Cognitive Cyber Defense,None,None,UAT & Testing,15.5,109100.0,38.7
+REC-0974,EMP-18512,Billing,Deep Technical & LLMOps,18.0,85.4,Predictive Machine Learning,Revenue Risk Profiler,Heriot-Watt University,Reverse Hackathon,Optimizing,37.4,687100.0,93.2
+REC-0975,EMP-11342,I&TF,AI Literacy,47.7,86.8,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Development,11.1,21800.0,39.9
+REC-0976,EMP-73076,I&TF,AI for Leaders,17.5,90.4,Agentic AI Workflows,Cognitive Cyber Defense,MBZUAI,Reverse Hackathon,Optimizing,26.4,147700.0,97.4
+REC-0977,EMP-29216,Power & Water Planning,AI Literacy,44.9,88.3,Predictive Machine Learning,Smart Load Forecasting,None,None,Fully Deployed,29.2,479500.0,72.5
+REC-0978,EMP-89767,Distribution Power,Deep Technical & LLMOps,53.2,90.6,Predictive Machine Learning,Grid Recloser Optimizer,None,None,Optimizing,38.1,49400.0,66.3
+REC-0979,EMP-36614,Water & Civil,AI for Leaders,17.7,96.7,Computer Vision,Reservoir Volumetric AI,RIT Dubai,Sponsored Capstone,Fully Deployed,33.1,18900.0,77.5
+REC-0980,EMP-46258,Distribution Power,Deep Technical & LLMOps,16.5,71.7,Agentic AI Workflows,SCADA Fault Routing,MBZUAI,Reverse Hackathon,Fully Deployed,33.7,181800.0,97.8
+REC-0981,EMP-52078,Distribution Power,Deep Technical & LLMOps,10.0,60.4,Agentic AI Workflows,LV Power Restoration,MBZUAI,Joint R&D Lab,Development,8.5,91000.0,35.6
+REC-0982,EMP-93524,Water & Civil,AI for Leaders,18.0,93.2,Computer Vision,Structural Crack Inspection,None,None,Development,12.4,7300.0,22.1
+REC-0983,EMP-22219,Power & Water Planning,Deep Technical & LLMOps,33.4,75.1,Predictive Machine Learning,Grid Expansion Planner,None,None,Development,15.0,30600.0,26.2
+REC-0984,EMP-10235,Business Development & Execution,Deep Technical & LLMOps,17.0,47.3,Generative AI (LLMs),Market Feasibility Generator,None,None,Optimizing,21.2,65600.0,68.8
+REC-0985,EMP-52929,I&TF,Deep Technical & LLMOps,34.0,83.0,Generative AI (LLMs),Agentic IT Helpdesk,None,None,Optimizing,29.7,189700.0,91.2
+REC-0986,EMP-77444,Power & Water Planning,Deep Technical & LLMOps,38.9,85.0,Predictive Machine Learning,Grid Expansion Planner,Heriot-Watt University,Reverse Hackathon,Fully Deployed,35.7,115300.0,88.4
+REC-0987,EMP-18567,Legal Affairs,AI Literacy,16.6,92.6,Generative AI (LLMs),NDA Auto-Review Agent,None,None,Fully Deployed,32.9,337600.0,90.2
+REC-0988,EMP-80792,Power & Water Planning,Deep Technical & LLMOps,31.3,77.5,Predictive Machine Learning,Digital Twin Simulation,None,None,Optimizing,25.9,50500.0,91.5
+REC-0989,EMP-75441,Transmission Power,AI Literacy,16.2,50.9,Computer Vision,Insulator Wear Classifier,None,None,UAT & Testing,21.6,107500.0,64.7
+REC-0990,EMP-94555,Legal Affairs,AI Literacy,52.6,98.7,Generative AI (LLMs),Contract Compliance Parser,None,None,Fully Deployed,25.0,194800.0,75.6
+REC-0991,EMP-83698,Billing,Deep Technical & LLMOps,36.2,70.7,Predictive Machine Learning,Billing Anomaly Detection,None,None,UAT & Testing,16.5,82200.0,18.2
+REC-0992,EMP-15415,Water & Civil,AI for Leaders,62.2,94.9,Computer Vision,Structural Crack Inspection,None,None,UAT & Testing,16.9,15900.0,36.8
+REC-0993,EMP-46159,Water & Civil,AI for Leaders,37.1,95.7,Autonomous IoT & Sensors,Autonomous Leak Detection,None,None,Ideation,8.1,13800.0,0.0
+REC-0994,EMP-53925,Billing,Deep Technical & LLMOps,10.0,84.0,Generative AI (LLMs),Generative Bill Explanation,None,None,UAT & Testing,13.3,44000.0,25.3
+REC-0995,EMP-15951,Power & Water Planning,Deep Technical & LLMOps,68.4,94.4,Predictive Machine Learning,Digital Twin Simulation,None,None,Fully Deployed,22.4,29400.0,89.1
+REC-0996,EMP-97388,Transmission Power,Deep Technical & LLMOps,39.0,93.2,Computer Vision,Thermal Substations Inspection,None,None,UAT & Testing,21.1,106100.0,26.4
+REC-0997,EMP-18007,Power & Water Planning,AI Literacy,36.2,84.6,Predictive Machine Learning,Grid Expansion Planner,None,None,Fully Deployed,32.6,218800.0,82.5
+REC-0998,EMP-51832,I&TF,AI Literacy,15.2,95.9,Agentic AI Workflows,Cognitive Cyber Defense,None,None,Development,10.6,24100.0,2.4
+REC-0999,EMP-68596,Legal Affairs,AI for Leaders,10.0,96.0,Generative AI (LLMs),Contract Compliance Parser,Heriot-Watt University,Reverse Hackathon,Ideation,5.0,19200.0,0.0
+REC-1000,EMP-40523,Business Development & Execution,AI Literacy,26.3,84.2,Generative AI (LLMs),AI Procurement Sandbox,RIT Dubai,Reverse Hackathon,Fully Deployed,25.6,232700.0,53.1
