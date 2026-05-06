@@ -41,7 +41,7 @@ st.markdown("""
             border-left: 5px solid #0f4c81;
         }
     </style>
-""", unsafe_html=True)
+""", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
 # DATA LOADING
