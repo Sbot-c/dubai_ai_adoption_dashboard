@@ -48,9 +48,10 @@ st.markdown("""
 # -----------------------------------------------------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("dubai_ai_adoption_dashboard_data.csv")
-
-df = load_data()
+    data = pd.read_csv("dubai_ai_adoption_dashboard_data.csv")
+    # Converts NaN floats back to the clean string "None"
+    data = data.fillna("None")
+    return data
 
 # -----------------------------------------------------------------------------
 # SIDEBAR FILTERS
@@ -60,15 +61,15 @@ st.sidebar.title("Strategic Filters")
 st.sidebar.markdown("Use these filters to inspect custom segments.")
 
 # Filter by Division
-divisions_opt = ["All Divisions"] + sorted(df["Division"].unique().tolist())
+divisions_opt = ["All Divisions"] + sorted(df["Division"].unique().astype(str).tolist())
 selected_division = st.sidebar.selectbox("Select Division", divisions_opt)
 
 # Filter by Implementation Stage
-stages_opt = ["All Stages"] + sorted(df["Implementation_Stage"].unique().tolist())
+stages_opt = ["All Stages"] + sorted(df["Implementation_Stage"].unique().astype(str).tolist())
 selected_stage = st.sidebar.selectbox("Select Project Stage", stages_opt)
 
-# Filter by Academic Partner
-partners_opt = ["All Partners"] + sorted(df["Academic_Partner"].unique().tolist())
+# Filter by Academic Partner (The line that broke)
+partners_opt = ["All Partners"] + sorted(df["Academic_Partner"].unique().astype(str).tolist())
 selected_partner = st.sidebar.selectbox("Select Academic Partner", partners_opt)
 
 # Apply Filters to the active DataFrame
